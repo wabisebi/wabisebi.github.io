@@ -24,7 +24,7 @@ global_variables() {
     # The typical subtitle for each blog
     global_description="Japan, language learning and other things"
     # The public base URL for this blog
-    global_url="https://wabisebi.github.io/"
+    global_url="https://wabisebi.github.io"
 
     # Your name
     global_author="Seb"
