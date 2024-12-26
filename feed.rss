@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel><title>wabisebi</title><link>https://wabisebi.github.io//index.html</link>
+<description>Japan, language learning and other things</description><language>en</language>
+<lastBuildDate>Thu, 26 Dec 2024 22:34:00 +0100</lastBuildDate>
+<pubDate>Thu, 26 Dec 2024 22:34:00 +0100</pubDate>
+<atom:link href="https://wabisebi.github.io//feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Title on this line
+</title><description><![CDATA[
+
+<p>The rest of the text file is an <b>html</b> blog post. The process will continue as soon
+as you exit your editor.</p>
+
+<p>Tags: <a href='tag_keep-this-tag-format.html'>keep-this-tag-format</a>, <a href='tag_tags-are-optional.html'>tags-are-optional</a>, <a href='tag_example.html'>example</a></p>
+<!-- text end -->
+]]></description><link>https://wabisebi.github.io//title-on-this-line.html</link>
+<guid>https://wabisebi.github.io//./title-on-this-line.html</guid>
+<dc:creator>Seb</dc:creator>
+<pubDate>Thu, 26 Dec 2024 22:33:51 +0100</pubDate></item>
+</channel></rss>
