@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Wabisebi</title><link>https://wabisebi.github.io/index.html</link>
 <description>My Personal Blog</description><language>en</language>
-<lastBuildDate>Fri, 27 Dec 2024 19:06:15 +0100</lastBuildDate>
-<pubDate>Fri, 27 Dec 2024 19:06:15 +0100</pubDate>
+<lastBuildDate>Fri, 27 Dec 2024 19:10:10 +0100</lastBuildDate>
+<pubDate>Fri, 27 Dec 2024 19:10:10 +0100</pubDate>
 <atom:link href="https://wabisebi.github.io/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 Blogging like it's 2001
@@ -15,7 +15,7 @@ In 2001, I coded my first website—a site all about Spider-Man comics, somethin
 
         <p><img src="https://www.wabisebi.com/content/images/2024/09/WS_No_smoking_v2.png" alt="kana"></p>
         
-        A simple Google search will give a lot of examples of mnemonics for Hiragana and Katakana. However, coming up with your own can be fun and possibly easier to remember.
+        <cite>A simple Google search will give a lot of examples of mnemonics for Hiragana and Katakana. However, coming up with your own can be fun and possibly easier to remember.</cite>
         
         ### Learning How to Write
         
@@ -55,6 +55,7 @@ In 2001, I coded my first website—a site all about Spider-Man comics, somethin
         ](https://www.wabisebi.com/docs/heisig-rtk/)</p>
 
 <p>Tags: <a href='tag_life.html'>life</a></p>
+
 
 
 
