@@ -34,7 +34,7 @@ global_variables() {
     global_email="sebagresti@gmail.com"
 
     # CC by-nc-nd is a good starting point, you can change this to "&copy;" for Copyright
-    global_license="CC by-nc-nd"
+    global_license="©"
 
     # If you have a Google Analytics ID (UA-XXXXX) and wish to use the standard
     # embedding code, put it on global_analytics
