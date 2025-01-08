@@ -2,22 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Wabisebi's Blog</title><link>https://wabisebi.github.io/blog/index.html</link>
 <description>My Personal Blog</description><language>en</language>
-<lastBuildDate>Wed, 08 Jan 2025 20:32:26 +0100</lastBuildDate>
-<pubDate>Wed, 08 Jan 2025 20:32:26 +0100</pubDate>
+<lastBuildDate>Wed, 08 Jan 2025 22:06:37 +0100</lastBuildDate>
+<pubDate>Wed, 08 Jan 2025 22:06:37 +0100</pubDate>
 <atom:link href="https://wabisebi.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 change the title here
 </title><description><![CDATA[
 
 <p>The rest of the text file is a <strong>Markdown</strong> blog post. The process will continue
-as soon as you exit your editor. now i edit more you see</p>
+as soon aasdsadsadlaskdlsakdlsakdlsakdlsakdlksaldksldkdlasklaskdlaskldksaldkaslkdlaskdlaskldkaldkalk i edit more you see</p>
 
 <p>Tags: <a href='tag_code.html'>code</a>, <a href='tag_life-line.html'>life-line</a></p>
 
-
 <!-- text end -->
-]]></description><link>https://wabisebi.github.io/blog/change-the-title-here.html</link>
-<guid>https://wabisebi.github.io/blog/./change-the-title-here.html</guid>
+]]></description><link>https://wabisebi.github.io/blog/change-the-title-here10817.html</link>
+<guid>https://wabisebi.github.io/blog/./change-the-title-here10817.html</guid>
 <dc:creator>Wabisebi</dc:creator>
-<pubDate>Wed, 08 Jan 2025 20:30:01 +0100</pubDate></item>
+<pubDate>Wed, 08 Jan 2025 20:39:02 +0100</pubDate></item>
 </channel></rss>
