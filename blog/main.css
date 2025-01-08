@@ -4,7 +4,7 @@ body {
         margin: 0;
         padding: 0;
         background-color: #F3F3F3;
-        font-weight: 400; /* Default weight */
+        font-weight: 300; /* Default weight */
     }
     
     /* Apply different weights for specific elements */
