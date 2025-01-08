@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
-<channel><title>wabisebi</title><link>https://wabisebi.github.io/blog/index.html</link>
-<description>Japanese Culture, language learning and other things</description><language>en</language>
-<lastBuildDate>Wed, 08 Jan 2025 19:25:56 +0100</lastBuildDate>
-<pubDate>Wed, 08 Jan 2025 19:25:56 +0100</pubDate>
-<atom:link href="https://wabisebi.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
+<channel><title>Wabisebi's Blog</title><link>https://wabisebi.github.io/index.html</link>
+<description>My Personal Blog</description><language>en</language>
+<lastBuildDate>Wed, 08 Jan 2025 19:59:55 +0100</lastBuildDate>
+<pubDate>Wed, 08 Jan 2025 19:59:55 +0100</pubDate>
+<atom:link href="https://wabisebi.github.io/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Title on this line
+</title><description><![CDATA[
+
+<p>The rest of the text file is a <strong>Markdown</strong> blog post. The process will continue
+as soon as you exit your editor.</p>
+
+<p>Tags: <a href='tag_keep-this-tag-format.html'>keep-this-tag-format</a>, <a href='tag_tags-are-optional.html'>tags-are-optional</a>, <a href='tag_beware-with-underscores-in-markdown.html'>beware-with-underscores-in-markdown</a>, <a href='tag_example.html'>example</a></p>
+<!-- text end -->
+]]></description><link>https://wabisebi.github.io/title-on-this-line.html</link>
+<guid>https://wabisebi.github.io/./title-on-this-line.html</guid>
+<dc:creator>Wabisebi</dc:creator>
+<pubDate>Wed, 08 Jan 2025 19:59:52 +0100</pubDate></item>
 <item><title>
 Hello world!
 </title><description><![CDATA[
@@ -16,9 +29,11 @@ Hello world!
 
 
 
+
+
 <!-- text end -->
-]]></description><link>https://wabisebi.github.io/blog/hello-world.html</link>
-<guid>https://wabisebi.github.io/blog/./hello-world.html</guid>
+]]></description><link>https://wabisebi.github.io/hello-world.html</link>
+<guid>https://wabisebi.github.io/./hello-world.html</guid>
 <dc:creator>Seb</dc:creator>
 <pubDate>Wed, 08 Jan 2025 18:30:44 +0100</pubDate></item>
 </channel></rss>
