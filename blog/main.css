@@ -6,7 +6,7 @@ body {
     }
     
     #divbodyholder {
-        padding: 5px;
+        padding: 0px;
         background-color: #DDD;
         width: 100%;
         max-width: 960px;
@@ -71,7 +71,7 @@ body {
     
     #footer {
         padding-top: 10px;
-        padding-bottom: 12px;
+        padding-bottom: 20px;
         border-top: solid 1px #666;
         color: #333333;
         text-align: center;
