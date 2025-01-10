@@ -24,7 +24,7 @@ global_variables() {
     # The typical subtitle for each blog
     global_description="trying to code a website"
     # The public base URL for this blog
-    global_url="https://wabisebi.github.io/blog"
+    global_url=""
 
     # Your name
     global_author="Seb"
@@ -34,7 +34,7 @@ global_variables() {
     global_email=""
 
     # CC by-nc-nd is a good starting point, you can change this to "&copy;" for Copyright
-    global_license="CC by-nc-nd"
+    global_license="&copy; 2024"
 
     # If you have a Google Analytics ID (UA-XXXXX) and wish to use the standard
     # embedding code, put it on global_analytics

@@ -4,17 +4,7 @@ The Japanese written language is a fusion of three distinct scripts. Schoolchild
 
 ![](https://www.wabisebi.com/content/images/2024/09/image-28.png)
 
-### **Phonetics**
-
-Hiragana and Katakana are phonetic scripts, meaning they visually represent sounds used in speech and don't carry any inherent meaning. Both character sets share the same syllables but serve different purposes within the written language. Although not typical for Japanese natives, you could technically spell all Japanese words using these two scripts.
-
-![](https://www.wabisebi.com/content/images/2024/01/hiragana-chart-by-tofugu.jpg)
-
-![](https://www.wabisebi.com/content/images/2024/01/tofugu-katakana-chart-sample.jpeg)
-
-Hiragana and Katakana charts ©Tofugu
-
-### Memorizing Characters Using Mnemonics
+##### Memorizing Characters Using Mnemonics
 
 I found memorizing Hiragana and Katakana fairly easy, and it took me about a week. What seemed to work best was utilizing **visual** **mnemonics**—memory aids or tricks that simplify remembering information through simple associations.  
   
