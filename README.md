@@ -1,1 +1,1 @@
-This is my first time coding and my first website. 
+Coding my first website.
