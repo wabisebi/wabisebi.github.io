@@ -2,12 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Wabisebi</title><link>https://wabisebi.github.io/blog/index.html</link>
 <description>Japanese culture, language learning, code and other things.</description><language>en</language>
-<lastBuildDate>Thu, 16 Jan 2025 18:44:27 +0100</lastBuildDate>
-<pubDate>Thu, 16 Jan 2025 18:44:27 +0100</pubDate>
+<lastBuildDate>Thu, 16 Jan 2025 18:48:19 +0100</lastBuildDate>
+<pubDate>Thu, 16 Jan 2025 18:48:19 +0100</pubDate>
 <atom:link href="https://wabisebi.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 
 </title><description><![CDATA[
+
 
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/testing.html</link>
@@ -58,6 +59,7 @@ How I Learned Hiragana and Katakana
 
 <p>Tags: <a href='tag_japanese.html'>japanese</a></p>
 
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/title-on-this-line.html</link>
 <guid>https://wabisebi.github.io/blog/./title-on-this-line.html</guid>
@@ -74,6 +76,7 @@ How I Learned Hiragana and Katakana
                     as soon as you exit your editor.</p>
 
                 <p>Tags: <a href='tag_japanese.html'>japanese</a></p>
+
 
 
 

@@ -5,6 +5,13 @@ body {
     background-color: #F3F3F3;
 }
 
+.signika-negative {
+    font-family: "Signika Negative", serif;
+    font-optical-sizing: auto;
+    font-weight: <300>;
+    font-style: normal;
+}
+
 #divbodyholder {
     padding: 0px;
     background-color: #DDD;
