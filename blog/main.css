@@ -1,5 +1,5 @@
 body {
-    font-family: "Noto Sans JP", serif;
+    font-family: "Noto Sans JP", sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
@@ -84,7 +84,7 @@ h4 {
 
 a {
     text-decoration: none;
-    color: #003366 !important;
+    color: #0d6ccb !important;
 }
 
 a:visited {
