@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Wabisebi</title><link>https://wabisebi.github.io/blog/index.html</link>
 <description>Blogging experiment. Japanese culture, language learning, coding and other things I'm into.</description><language>en</language>
-<lastBuildDate>Mon, 20 Jan 2025 11:48:13 +0100</lastBuildDate>
-<pubDate>Mon, 20 Jan 2025 11:48:13 +0100</pubDate>
+<lastBuildDate>Mon, 20 Jan 2025 11:56:05 +0100</lastBuildDate>
+<pubDate>Mon, 20 Jan 2025 11:56:05 +0100</pubDate>
 <atom:link href="https://wabisebi.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 How I Learned Hiragana and Katakana
@@ -88,100 +88,11 @@ How I Learned Hiragana and Katakana
 
 
 
+
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/title-on-this-line.html</link>
 <guid>https://wabisebi.github.io/blog/./title-on-this-line.html</guid>
 <dc:creator>Seb</dc:creator>
 <pubDate>Thu, 09 Jan 2025 19:47:42 +0100</pubDate></item>
-<item><title>
-                        How I learned Hiragana and Katakana
-</title><description><![CDATA[
-
-                <p>The rest of the text file is a <strong>Markdown</strong> blog post. The process will continue
-                    as soon as you exit your editor.</p>
-
-                <p>The rest of the text file is a <strong>Markdown</strong> blog post. The process will continue
-                    as soon as you exit your editor.</p>
-
-                <p>Tags: <a href='tag_japanese.html'>japanese</a></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- text end -->
-]]></description><link>https://wabisebi.github.io/blog/how-i-learned-hiragana-and-katakana.html</link>
-<guid>https://wabisebi.github.io/blog/./how-i-learned-hiragana-and-katakana.html</guid>
-<dc:creator>                    Wabisebi
-
-
-                </dc:creator>
-<pubDate>Thu, 09 Jan 2025 10:24:16 +0100</pubDate></item>
 </channel></rss>
