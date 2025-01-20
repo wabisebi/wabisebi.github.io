@@ -2,18 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Wabisebi</title><link>https://wabisebi.github.io/blog/index.html</link>
 <description>Blogging experiment. Japanese culture, language learning, coding and other things I'm into.</description><language>en</language>
-<lastBuildDate>Mon, 20 Jan 2025 21:59:35 +0100</lastBuildDate>
-<pubDate>Mon, 20 Jan 2025 21:59:35 +0100</pubDate>
+<lastBuildDate>Mon, 20 Jan 2025 22:14:41 +0100</lastBuildDate>
+<pubDate>Mon, 20 Jan 2025 22:14:41 +0100</pubDate>
 <atom:link href="https://wabisebi.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
-2001 Blogging Odyssey
+2001 Blog Odyssey
 </title><description><![CDATA[
 
 <p>The rest of the text file is a <strong>Markdown</strong> blog post. The process will continue
 as soon as you exit your editor.</p>
 
 <p>Tags: <a href='tag_life.html'>life</a>, <a href='tag_code.html'>code</a></p>
-
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/2001-blogging-odyssey.html</link>
 <guid>https://wabisebi.github.io/blog/./2001-blogging-odyssey.html</guid>
