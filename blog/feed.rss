@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Wabisebi</title><link>https://wabisebi.github.io/blog/index.html</link>
 <description>Blogging experiment. Japanese culture, language learning, coding and other things I'm into.</description><language>en</language>
-<lastBuildDate>Mon, 20 Jan 2025 21:13:50 +0100</lastBuildDate>
-<pubDate>Mon, 20 Jan 2025 21:13:50 +0100</pubDate>
+<lastBuildDate>Mon, 20 Jan 2025 21:15:50 +0100</lastBuildDate>
+<pubDate>Mon, 20 Jan 2025 21:15:50 +0100</pubDate>
 <atom:link href="https://wabisebi.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 2001 Blogging Odyssey
@@ -18,20 +18,4 @@ as soon as you exit your editor.</p>
 <guid>https://wabisebi.github.io/blog/./2001-blogging-odyssey.html</guid>
 <dc:creator>Seb</dc:creator>
 <pubDate>Mon, 20 Jan 2025 21:13:47 +0100</pubDate></item>
-<item><title>
-Blogging like it&rsquo;s 2001
-</title><description><![CDATA[
-
-<p>In 2001, I learned to code my first website—a site all about Spider-Man comics, something I was into collecting at the time. It was built in HTML, using iframes and everything. Then came a Harry Potter fan site with a custom cursor in the shape of a wand, followed a year later by a website celebrating the then newly launched Xbox. These were somewhat early days of the internet, and I just registered xbox.net. I received an email from Microsoft at the time, giving me access to the latest news about Xbox, hoping my site would grow. They didn&rsquo;t realize I was only twelve at the time.</p>
-
-<p>All these website projects were abandoned as quickly as they were conceived. Once the novelty wore off, I jumped to the next thing. This pattern would follow me for many years to come.</p>
-
-<p>Two years ago, I started working on a website called Wabisebi. It started out as a simple idea to blog about my interest in Japan&hellip;</p>
-
-<p>Tags: <a href='tag_life.html'>life</a>, <a href='tag_code.html'>code</a></p>
-<!-- text end -->
-]]></description><link>https://wabisebi.github.io/blog/title-on-this-line.html</link>
-<guid>https://wabisebi.github.io/blog/./title-on-this-line.html</guid>
-<dc:creator>Seb</dc:creator>
-<pubDate>Thu, 09 Jan 2025 19:47:42 +0100</pubDate></item>
 </channel></rss>
