@@ -11,5 +11,6 @@ Two years ago, I started working on a website also called Wabisebi. It began as 
 Two things I came across recently while reading made me think that I should do things differently if I want to actually produce something meaningful.
 
 ![cleanslate](./img/clean-slate.png)
+*image description*
 
 Tags: life, code
