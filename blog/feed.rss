@@ -2,24 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Wabisebi</title><link>https://wabisebi.github.io/blog/index.html</link>
 <description>Blogging experiment. Japanese culture, language learning, coding and other things I'm into.</description><language>en</language>
-<lastBuildDate>Tue, 21 Jan 2025 22:42:33 +0100</lastBuildDate>
-<pubDate>Tue, 21 Jan 2025 22:42:33 +0100</pubDate>
+<lastBuildDate>Tue, 21 Jan 2025 22:44:10 +0100</lastBuildDate>
+<pubDate>Tue, 21 Jan 2025 22:44:10 +0100</pubDate>
 <atom:link href="https://wabisebi.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
-<item><title>
-Title on this line
-</title><description><![CDATA[
-
-<p>The rest of the text file is a <strong>Markdown</strong> blog post. The process will continue
-as soon as you exit your editor.</p>
-
-<p>Tags: <a href='tag_keep-this-tag-format.html'>keep-this-tag-format</a>, <a href='tag_tags-are-optional.html'>tags-are-optional</a>, <a href='tag_beware-with-underscores-in-markdown.html'>beware-with-underscores-in-markdown</a>, <a href='tag_example.html'>example</a></p>
-
-
-<!-- text end -->
-]]></description><link>https://wabisebi.github.io/blog/title-on-this-line.html</link>
-<guid>https://wabisebi.github.io/blog/./title-on-this-line.html</guid>
-<dc:creator>Seb</dc:creator>
-<pubDate>Tue, 21 Jan 2025 20:56:15 +0100</pubDate></item>
 <item><title>
 A Clean Slate
 </title><description><![CDATA[
@@ -38,6 +23,7 @@ A Clean Slate
 <em>image description</em></p>
 
 <p>Tags: <a href='tag_life.html'>life</a>, <a href='tag_code.html'>code</a></p>
+
 
 
 
