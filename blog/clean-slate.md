@@ -10,7 +10,7 @@ Two years ago, I started working on a website called Wabisebi. It began as an id
 
 A few things happened recently that made me think that I should do things differently if I want to actually produce something meaningful. I'll write about these events in a future post as I don't want these posts to be too long.
 
-Long story short: Sometimes it's good to do the reverse of what has not been working. So, instead of building a website with tons of features that I then need to fill up, I've decided to start bottom-up. Starting at its most basic fundamentals and only implementing things when they are really needed.
+Long story short: Sometimes it's good to do the reverse of what has not been working. So, instead of building a website with tons of features that I then need to fill up, I've decided to start bottom-up. Starting at its most basic fundamentals and only implementing things when they are *really* needed.
 
 And so, I took a crash course refresher on HTML and CSS and implemented this great little [bashlog script](https://github.com/cfenollosa/bashblog), making it possible to post from the command line. Like the early internet, it's basic and there are no excuses not to publish anything.
 
