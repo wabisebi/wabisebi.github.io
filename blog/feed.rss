@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Wabisebi</title><link>https://wabisebi.github.io/blog/index.html</link>
 <description>Blogging experiment. Japanese culture, language learning, coding and other things I'm into.</description><language>en</language>
-<lastBuildDate>Tue, 21 Jan 2025 22:57:37 +0100</lastBuildDate>
-<pubDate>Tue, 21 Jan 2025 22:57:37 +0100</pubDate>
+<lastBuildDate>Wed, 22 Jan 2025 10:36:23 +0100</lastBuildDate>
+<pubDate>Wed, 22 Jan 2025 10:36:23 +0100</pubDate>
 <atom:link href="https://wabisebi.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 A Clean Slate
@@ -19,25 +19,10 @@ A Clean Slate
 
 <p>Two things I came across recently while reading made me think that I should do things differently if I want to actually produce something meaningful.</p>
 
-<p><img src="./img/clean-slate.png" alt="cleanslate" />
+<p><img src="./img/pico-markdown.png" alt="cleanslate" />
 <em>image description</em></p>
 
 <p>Tags: <a href='tag_life.html'>life</a>, <a href='tag_code.html'>code</a></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/2001-blogging-odyssey.html</link>
