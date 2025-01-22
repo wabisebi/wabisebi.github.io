@@ -2,18 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Wabisebi</title><link>https://wabisebi.github.io/blog/index.html</link>
 <description>Blogging experiment. Japanese culture, language learning, coding and other things I'm into.</description><language>en</language>
-<lastBuildDate>Wed, 22 Jan 2025 13:32:42 +0100</lastBuildDate>
-<pubDate>Wed, 22 Jan 2025 13:32:42 +0100</pubDate>
+<lastBuildDate>Wed, 22 Jan 2025 21:44:03 +0100</lastBuildDate>
+<pubDate>Wed, 22 Jan 2025 21:44:03 +0100</pubDate>
 <atom:link href="https://wabisebi.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 Clean Slate
 </title><description><![CDATA[
-
-<p>In 2001, I coded my first website—a site all about Spider-Man comics. I built it entirely in HTML, using fancy iframes and custom speech bubble images as navigation links. Then came a Harry Potter fansite followed a year later by a website celebrating the then-newly launched Microsoft Xbox. Not long after, Microsoft contacted me about how we could work together to promote their product. I never responded. They probably had no idea I was only twelve years old and was already on to the next project.</p>
-
-<p>All these projects were abandoned as quickly as they were conceived. Once the novelty wore off, I jumped to the next thing. Paralyzed by the high bar and unrealistic expectations I set for myself, I left behind a wasteland of iframes and half-written introductions.</p>
-
-<p>Jumping from project to project has been a recurring issue throughout my life.</p>
 
 <p>Two years ago, I started working on a website called Wabisebi. It began as an idea to blog about my interest in Japan. Then came additional ideas: book reviews, artist spotlights, and a language study section. I hired freelance web developers to help me with custom templates and features. I kept postponing the launch because I wanted to implement new features, all the while I was telling people about this big great thing I was working on. And then, as always, the novelty wore off and perfectionism kicked in. The thought of having to fill the entire blog and illustrate everything started to feel like an obligation.</p>
 
@@ -28,8 +22,6 @@ Clean Slate
 <p><img src="./img/pico-markdown.png" alt="cleanslate" /></p>
 
 <p>Tags: <a href='tag_life.html'>life</a>, <a href='tag_code.html'>code</a></p>
-
-
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/clean-slate.html</link>
 <guid>https://wabisebi.github.io/blog/./clean-slate.html</guid>
