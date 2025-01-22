@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Wabisebi</title><link>https://wabisebi.github.io/blog/index.html</link>
 <description>Blogging experiment. Japanese culture, language learning, coding and other things I'm into.</description><language>en</language>
-<lastBuildDate>Wed, 22 Jan 2025 21:44:03 +0100</lastBuildDate>
-<pubDate>Wed, 22 Jan 2025 21:44:03 +0100</pubDate>
+<lastBuildDate>Wed, 22 Jan 2025 21:46:23 +0100</lastBuildDate>
+<pubDate>Wed, 22 Jan 2025 21:46:23 +0100</pubDate>
 <atom:link href="https://wabisebi.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 Clean Slate
 </title><description><![CDATA[
 
-<p>Two years ago, I started working on a website called Wabisebi. It began as an idea to blog about my interest in Japan. Then came additional ideas: book reviews, artist spotlights, and a language study section. I hired freelance web developers to help me with custom templates and features. I kept postponing the launch because I wanted to implement new features, all the while I was telling people about this big great thing I was working on. And then, as always, the novelty wore off and perfectionism kicked in. The thought of having to fill the entire blog and illustrate everything started to feel like an obligation.</p>
+<p>Two years ago, I started working on a website called Wabisebi. It began as an idea to blog about my interest in Japan. Then came additional ideas: book reviews, artist spotlights, and a language study section. I hired freelance web developers to help me with custom templates and features. I kept postponing the launch because I wanted to implement new features, all the while I was telling people about this big great thing I was working on. And then, as with most of my projects, the novelty wore off and perfectionism kicked in. The thought of having to fill the entire blog and illustrate everything started to feel like an obligation.</p>
 
-<p>A few things happened recently that made me think that I should do things differently if I want to actually produce something meaningful. I&rsquo;ll write about these events in a future post as I don&rsquo;t want these posts to be too long.</p>
+<p>A few things happened recently that made me think that I should do things differently if I want to actually produce something meaningful. I&rsquo;ll write about these events in a future post as I don&rsquo;t want these posts to be long.</p>
 
-<p>Long story short: Sometimes it&rsquo;s good to do the reverse of what has not been working. So, instead of building a website with tons of features that I then need to fill up, I&rsquo;ve decided to start bottom-up. Starting at its most basic fundamentals and only implementing things when they are <em>really</em> needed.</p>
+<p>Sometimes it&rsquo;s good to do the reverse of what has not been working. So, instead of building a website with tons of features that I then need to fill up, I&rsquo;ve decided to start bottom-up. Starting at its most basic fundamentals and only implementing things when they are <em>really</em> needed.</p>
 
 <p>And so, I took a crash course refresher on HTML and CSS and implemented this great little <a href="https://github.com/cfenollosa/bashblog">bashlog script</a>, making it possible to post from the command line. Like the early internet, it&rsquo;s basic and there are no excuses not to publish anything.</p>
 
