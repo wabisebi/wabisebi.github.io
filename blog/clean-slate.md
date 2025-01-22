@@ -1,7 +1,5 @@
 Clean Slate
 
-# Clean Slate 
-
 In 2001, I coded my first website, all about Spider-Man comics. I built it in HTML, complete with iframes and speech bubble drawings for the navigation. More sites followed: a Harry Potter fan site and a site celebrating the newly-launched Xbox to name a few.
 
 Each project was abandoned as quickly as it was conceived. Once the novelty wore off, I'd jump to the next thing, leaving behind a wasteland of iframes and half-written introductions.
