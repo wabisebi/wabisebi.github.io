@@ -8,7 +8,11 @@ This pattern of jumping from project to project has followed me throughout my li
 
 Two years ago, I started working on *Wabisebi*, a blog about Japan. Soon came additional ideas: book reviews, artist spotlights, and a language study section. I hired developers, kept adding features, and talked up this great project I was building. But like always, the novelty wore off and perfectionism kicked in. The thought of filling and illustrating the entire blog became overwhelming.
 
-Recently I spent a lot of time reflecting on this recurring problem and decided to try out a change. Sometimes it's good to do the *reverse* of what has not been working. So, instead of building a website with tons of features that I then need to fill up, I've decided to start bottom-up. Starting at its most basic fundamentals and only implementing things when they are _really_ needed. I implemented a simple [bashlog script](https://github.com/cfenollosa/bashblog), which converts markdown text into HTML pages and let's me post straight from the command line. Sometimes the best way forward is to strip everything back to its essentials and just begin. 
+Recently I spent a lot of time reflecting on this recurring problem and decided to try out a change. Sometimes it's good to do the *reverse* of what has not been working. 
+
+So, instead of building a website with tons of features that I then need to fill up, I've decided to start bottom-up. Starting at its most basic fundamentals and only implementing things when they are _really_ needed. I implemented a simple [bashlog script](https://github.com/cfenollosa/bashblog), which converts markdown text into HTML pages and let's me post straight from the command line. 
+
+Sometimes the best way forward is to strip everything back to its essentials and just begin. 
 
 ![cleanslate](./img/pico-markdown.png)
 
