@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Wabisebi</title><link>https://wabisebi.github.io/blog/index.html</link>
 <description>Blogging experiment. Japanese culture, language learning, coding and other things I'm into.</description><language>en</language>
-<lastBuildDate>Wed, 22 Jan 2025 12:42:26 +0100</lastBuildDate>
-<pubDate>Wed, 22 Jan 2025 12:42:26 +0100</pubDate>
+<lastBuildDate>Wed, 22 Jan 2025 12:44:35 +0100</lastBuildDate>
+<pubDate>Wed, 22 Jan 2025 12:44:35 +0100</pubDate>
 <atom:link href="https://wabisebi.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 Clean Slate
@@ -21,14 +21,13 @@ Clean Slate
 
 <p>Long story short: Sometimes it&rsquo;s good to do the reverse of what has not been working. So, instead of building a website with tons of features that I then need to fill up, I&rsquo;ve decided to start bottom-up. Starting at its most basic fundamentals and only implementing things when they are really needed.</p>
 
-<p>And so, I took a crash course refresher on HTML and CSS and implemented this <a href="https://github.com/cfenollosa/bashblog">great little bashlog script</a>,making it possible to post from the command line. Like the early internet, it&rsquo;s basic and there are no excuses not to publish anything.</p>
+<p>And so, I took a crash course refresher on HTML and CSS and implemented this <a href="https://github.com/cfenollosa/bashblog">great little bashlog script</a>, making it possible to post from the command line. Like the early internet, it&rsquo;s basic and there are no excuses not to publish anything.</p>
 
 <p>Instead of worrying what this website should be about, I will just write. The content will shape the site. Maybe it&rsquo;s entertaining for you, the reader, or maybe you the reader will never visit. I&rsquo;ll let it go for now and just start with this clean slate.</p>
 
 <p><img src="./img/pico-markdown.png" alt="cleanslate" /></p>
 
 <p>Tags: <a href='tag_life.html'>life</a>, <a href='tag_code.html'>code</a></p>
-
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/clean-slate.html</link>
 <guid>https://wabisebi.github.io/blog/./clean-slate.html</guid>

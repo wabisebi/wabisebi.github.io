@@ -12,7 +12,7 @@ A few things happened recently that made me think that I should do things differ
 
 Long story short: Sometimes it's good to do the reverse of what has not been working. So, instead of building a website with tons of features that I then need to fill up, I've decided to start bottom-up. Starting at its most basic fundamentals and only implementing things when they are really needed.
 
-And so, I took a crash course refresher on HTML and CSS and implemented this [great little bashlog script](https://github.com/cfenollosa/bashblog),making it possible to post from the command line. Like the early internet, it's basic and there are no excuses not to publish anything.
+And so, I took a crash course refresher on HTML and CSS and implemented this [great little bashlog script](https://github.com/cfenollosa/bashblog), making it possible to post from the command line. Like the early internet, it's basic and there are no excuses not to publish anything.
 
 Instead of worrying what this website should be about, I will just write. The content will shape the site. Maybe it's entertaining for you, the reader, or maybe you the reader will never visit. I'll let it go for now and just start with this clean slate.
 
