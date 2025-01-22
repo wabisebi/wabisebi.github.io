@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Wabisebi</title><link>https://wabisebi.github.io/blog/index.html</link>
 <description>Blogging experiment. Japanese culture, language learning, coding and other things I'm into.</description><language>en</language>
-<lastBuildDate>Wed, 22 Jan 2025 13:31:44 +0100</lastBuildDate>
-<pubDate>Wed, 22 Jan 2025 13:31:44 +0100</pubDate>
+<lastBuildDate>Wed, 22 Jan 2025 13:32:42 +0100</lastBuildDate>
+<pubDate>Wed, 22 Jan 2025 13:32:42 +0100</pubDate>
 <atom:link href="https://wabisebi.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 Clean Slate
@@ -29,39 +29,10 @@ Clean Slate
 
 <p>Tags: <a href='tag_life.html'>life</a>, <a href='tag_code.html'>code</a></p>
 
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/clean-slate.html</link>
 <guid>https://wabisebi.github.io/blog/./clean-slate.html</guid>
 <dc:creator>Seb</dc:creator>
 <pubDate>Wed, 22 Jan 2025 12:41:52 +0100</pubDate></item>
-<item><title>
-Clean Slate
-</title><description><![CDATA[
-
-<p>In 2001, I coded my first website—a site all about Spider-Man comics. I built it entirely in HTML, using fancy iframes and custom speech bubble images as navigation links. Then came a Harry Potter fansite followed a year later by a website celebrating the then-newly launched Microsoft Xbox. Not long after, Microsoft contacted me about how we could work together to promote their product. I never responded. They probably had no idea I was only twelve years old and was already on to the next project.</p>
-
-<p>All these projects were abandoned as quickly as they were conceived. Once the novelty wore off, I jumped to the next thing. Paralyzed by the high bar and unrealistic expectations I set for myself, I left behind a wasteland of iframes and half written introductions.</p>
-
-<p>This project jumping has been a recurring issue throughout my life.</p>
-
-<p>Two years ago, I started working on a website called Wabisebi. It began as an idea to blog about my interest in Japan. Then came additional ideas: book reviews, artist spotlights, and a language study section. I hired two freelance web developers to help me with custom templates. I kept postponing the launch because I wanted to implement new features, all the while I was telling people about this big great thing I was working on. And then, as always, the novelty wore off and perfectionism kicked in. The thought of having to fill the entire blog and illustrate everything started to feel like an obligation.</p>
-
-<p>A few things happened recently that made me think that I should do things differently if I want to actually produce something meaningful. I&rsquo;ll write about these events in a future post as I don&rsquo;t want these posts to be too long.</p>
-
-<p>Sometimes it&rsquo;s good to do the reverse of what has not been working. So, instead of building a website with tons of features that I then need to fill up, I start bottom up. Start at its most basic, fundamental and only implement things when they are needed.</p>
-
-<p>And so, I did a crashcourse refresher on HTML and CSS and found this great little bashlog script, making it possible to post from the command line. Like the early internet, its basic and there are no excuses not to</p>
-
-<p>Instead of worrying what this website should be about, I will just write, the content will shape the site. Maybe it&rsquo;s entertaining for you, the reader, or maybe you the reader will never visit. I&rsquo;ll let it go for now and just start with this clean slate.</p>
-
-<p><img src="./img/pico-markdown.png" alt="cleanslate" /></p>
-
-<p>Tags: <a href='tag_life.html'>life</a>, <a href='tag_code.html'>code</a></p>
-
-
-<!-- text end -->
-]]></description><link>https://wabisebi.github.io/blog/2001-blogging-odyssey.html</link>
-<guid>https://wabisebi.github.io/blog/./2001-blogging-odyssey.html</guid>
-<dc:creator>Seb</dc:creator>
-<pubDate>Mon, 20 Jan 2025 21:13:47 +0100</pubDate></item>
 </channel></rss>
