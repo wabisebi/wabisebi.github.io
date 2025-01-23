@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Wabisebi</title><link>https://wabisebi.github.io/blog/index.html</link>
 <description>Blogging experiment. Japanese culture, language learning, coding and other things I'm into.</description><language>en</language>
-<lastBuildDate>Wed, 22 Jan 2025 23:43:36 +0100</lastBuildDate>
-<pubDate>Wed, 22 Jan 2025 23:43:36 +0100</pubDate>
+<lastBuildDate>Thu, 23 Jan 2025 10:04:32 +0100</lastBuildDate>
+<pubDate>Thu, 23 Jan 2025 10:04:32 +0100</pubDate>
 <atom:link href="https://wabisebi.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 Clean Slate
@@ -19,9 +19,7 @@ Clean Slate
 
 <p>Recently I spent a lot of time reflecting on this recurring problem and decided to try out a change. Sometimes it&rsquo;s good to do the <em>reverse</em> of what has not been working.</p>
 
-<p>So, instead of building a website with tons of features that I then need to fill up, I&rsquo;ve decided to start bottom-up. Starting at its most basic fundamentals and only implementing things when they are <em>really</em> needed. I implemented a simple <a href="https://github.com/cfenollosa/bashblog">bashlog script</a>, which converts markdown text into HTML pages and let&rsquo;s me post straight from the command line.</p>
-
-<p>Sometimes the best way forward is to strip everything back to its essentials and just begin.</p>
+<p>So, instead of building a website with tons of features that I then need to fill up, I&rsquo;ve decided to start bottom-up. Starting at its most basic fundamentals and only implementing things when they are <em>really</em> needed. I&rsquo;m using this simple <a href="https://github.com/cfenollosa/bashblog">bashlog script</a>, which converts markdown text into HTML pages and let&rsquo;s me post straight from the command line. Sometimes the best way forward is to strip everything back to its essentials and just begin.</p>
 
 <p><img src="./img/pico-markdown.png" alt="cleanslate" /></p>
 

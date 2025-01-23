@@ -10,9 +10,7 @@ Two years ago, I started working on *Wabisebi*, a blog about Japan. Soon came ad
 
 Recently I spent a lot of time reflecting on this recurring problem and decided to try out a change. Sometimes it's good to do the *reverse* of what has not been working. 
 
-So, instead of building a website with tons of features that I then need to fill up, I've decided to start bottom-up. Starting at its most basic fundamentals and only implementing things when they are _really_ needed. I implemented a simple [bashlog script](https://github.com/cfenollosa/bashblog), which converts markdown text into HTML pages and let's me post straight from the command line. 
-
-Sometimes the best way forward is to strip everything back to its essentials and just begin. 
+So, instead of building a website with tons of features that I then need to fill up, I've decided to start bottom-up. Starting at its most basic fundamentals and only implementing things when they are _really_ needed. I'm using this simple [bashlog script](https://github.com/cfenollosa/bashblog), which converts markdown text into HTML pages and let's me post straight from the command line. Sometimes the best way forward is to strip everything back to its essentials and just begin. 
 
 ![cleanslate](./img/pico-markdown.png)
 
