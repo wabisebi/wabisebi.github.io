@@ -16,4 +16,5 @@ Of course that's not to say that we can't make things purely out of joy for ours
 
 I've decided to try and share things in a state where they might not yet feel 'perfect' (whatever that means), rather than waiting too long and losing interest or missing the moment. It might not ever be a masterpiece, but at least it now counts.
 ![Seth Godin and Rick Rubin Books](./img/godin-rubin-books.webp)
+
 Tags: thoughts
