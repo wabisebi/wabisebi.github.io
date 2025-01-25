@@ -4,7 +4,7 @@ In my previous post, I talked about the bad habit of not seeing projects through
 
 I recently came across two passages that have helped me realize that I have only myself to blame for feeling upset when this happens. 
 
-The first passage comes from the book [The Creative Act: A Way of Being](https://www.goodreads.com/book/show/60965426-the-creative-act) by music producer Rick Rubin. Rubin shares a beautiful way of thinking about ideas, almost like independent entities floating around in the universe that want to be found and shared with others. It's flipping the narrative, making ideas the important thing and our personal struggles or ego secondary.
+In his book [The Creative Act: A Way of Being](https://www.goodreads.com/book/show/60965426-the-creative-act) music producer Rick Rubin shares a beautiful way of thinking about ideas. He talks about them like they independent entities floating around in the universe. It's flipping the narrative, making _ideas_ the important thing and our personal struggles or ego secondary.
 
 >"If you have an idea you're excited about and you don't bring it to life, it's not uncommon for the idea to find its voice through another maker. This isn't because the other artist stole your idea, but because the idea's time has come."
 
