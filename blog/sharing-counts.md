@@ -12,7 +12,7 @@ Author and marketer [Seth Godin](https://seths.blog/) states it less poetically 
 
 >"Shipping, because it doesn't count if you don't share it."
 
-Of course that's not to say that we can't make things purely out of joy for ourselves, which definitely counts in its own way. But if we want feedback and a relationship with others through our work, it will only happen if we actually put it out there.
+Of course that's not to say that we can't make things purely for ourselves, which definitely counts in its own way. But if we want feedback and a relationship with others through our work, it will only happen if we actually put it out there.
 
 I've decided to try and share things in a state where they might not yet feel 'perfect' (whatever that means), rather than waiting too long and losing interest or missing the moment. It might not ever be a masterpiece, but at least it now counts.
 ![Seth Godin and Rick Rubin Books](./img/godin-rubin-books.webp)
