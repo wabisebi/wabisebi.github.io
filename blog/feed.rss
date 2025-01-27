@@ -2,9 +2,55 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Wabisebi</title><link>https://wabisebi.github.io/blog/index.html</link>
 <description>Blogging experiment. Japanese culture, language learning, coding and other things I'm into.</description><language>en</language>
-<lastBuildDate>Mon, 27 Jan 2025 14:57:05 +0100</lastBuildDate>
-<pubDate>Mon, 27 Jan 2025 14:57:05 +0100</pubDate>
+<lastBuildDate>Mon, 27 Jan 2025 20:43:21 +0100</lastBuildDate>
+<pubDate>Mon, 27 Jan 2025 20:43:21 +0100</pubDate>
 <atom:link href="https://wabisebi.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+How I Learned Hiragana and Katakana
+</title><description><![CDATA[
+
+<p>The Japanese written language is a fusion of three distinct scripts. Typically, children in Japan first learn Hiragana and Katakana, collectively called &lsquo;the kana,&rsquo; before progressing to the more complex and vast set of Kanji characters imported from China. This is also the order of learning that is generally recommended for foreigners like me.</p>
+
+<h4>Phonetics</h4>
+
+<p>The kana are phonetic scripts, meaning they visually represent sounds used in speech and don&rsquo;t carry any meaning. Both character sets share the same syllables but serve different purposes within the language. Although not used this way in practice, you could technically spell all Japanese words using just these two scripts.</p>
+
+<h4>Memorizing Characters Using Mnemonics</h4>
+
+<p>I found memorizing Hiragana and Katakana fairly easy, and it took me about a week. What worked best was utilizing <strong>visual mnemonics</strong> that simplify remembering information through simple associations.</p>
+
+<p>Here&rsquo;s an example for memorizing the character &lsquo;の.&rsquo; This character represents a syllable roughly pronounced as &lsquo;no&rsquo; in the English word &lsquo;not&rsquo;. Associating it with a &lsquo;No/not smoking&rsquo; sign, which is similar in shape to the hiragana character, was a helpful visual cue.</p>
+
+<p><img src="./img/ws_kana_no_smoking.webp" alt="kana-no-sign" /></p>
+
+<p>The internet is full of examples of mnemonics for the kana, so there is no need to make them up yourself.</p>
+
+<h4>Learning How to Write</h4>
+
+<p>Learning to write Hiragana and Katakana isn&rsquo;t too challenging, but it&rsquo;s important to follow the correct stroke order. Correct stroke order is crucial because it helps you intuitively write new characters and improves readability.</p>
+
+<p>I started with some practice sheets to learn the stroke order, and then switched to a gridded notebook, writing the characters from memory.</p>
+
+<h4>Practice, Practice, Practice</h4>
+
+<p>During my first month in Japan back in 2020, I regularly did speed quizzes to recognize kana as quickly as possible. Pretty soon, the characters came naturally, and eventually, I didn&rsquo;t have to rely on mnemonics. Reading Hiragana and Katakana now feels as familiar as reading the Latin script; I simply know their shapes and sounds without having to think about them.</p>
+
+<p><img src="./img/ws_kana_djt.gif" alt="djt-kana" /><em>Practicing Kana on the <a href="https://djtguide.neocities.org/kana/?ref=wabisebi.com">DJT Kana website</a></em></p>
+
+<h4>Practical Use in Daily Life</h4>
+
+<p>Hiragana is mostly used for Japanese-origin words, so without knowing the meanings of those words, it wasn&rsquo;t very useful to me until I started learning some actual vocabulary.</p>
+
+<p>The most useful thing for me right from the start was knowing Katakana. This script is primarily used for foreign loanwords, often imported from English, making them easy to understand. For instance, when I was searching for shampoo at a convenience store, I picked up a bottle with the text &lsquo;シャンプー&rsquo; on it. These syllables spell &lsquo;sha-n-puu,&rsquo; making it likely I had found the right product. Although only a small step, it started making things easier for me and marked my beginning of learning Japanese vocabulary.</p>
+
+<p><img src="./img/ws_kana_shopsign.png" alt="kana-shop-sign" /><em>フレッシュジュース / FU-RE-S-SHU-JU-U-SU / Fresh Juice. Illustration of shop sign in Nagasaki</em></p>
+
+<p>Tags: <a href='tag_language.html'>language</a></p>
+<!-- text end -->
+]]></description><link>https://wabisebi.github.io/blog/how-i-learned-the-kana.html</link>
+<guid>https://wabisebi.github.io/blog/./how-i-learned-the-kana.html</guid>
+<dc:creator>Seb</dc:creator>
+<pubDate>Mon, 27 Jan 2025 17:10:20 +0100</pubDate></item>
 <item><title>
 It Doesn&rsquo;t Count if You Don&rsquo;t Share it
 </title><description><![CDATA[
@@ -27,6 +73,9 @@ It Doesn&rsquo;t Count if You Don&rsquo;t Share it
 <img src="./img/godin-rubin-books.webp" alt="Seth Godin and Rick Rubin Books" /></p>
 
 <p>Tags: <a href='tag_thoughts.html'>thoughts</a></p>
+
+
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/sharing-counts.html</link>
 <guid>https://wabisebi.github.io/blog/./sharing-counts.html</guid>
@@ -51,6 +100,9 @@ Clean Slate
 <p><img src="./img/pico-markdown.png" alt="cleanslate" /></p>
 
 <p>Tags: <a href='tag_life.html'>life</a>, <a href='tag_code.html'>code</a></p>
+
+
+
 
 
 
