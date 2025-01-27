@@ -109,3 +109,13 @@ blockquote iframe {
     margin: 12px 0;
     max-width: 100%;
 }
+
+/* Target em tags that come after images within the same paragraph */
+p img+em {
+    display: block;
+    font-style: normal;
+    /* This removes the italics */
+    text-align: left;
+    margin-top: 6px;
+    font-size: 14px;
+}
