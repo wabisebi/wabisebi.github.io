@@ -2,9 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Wabisebi</title><link>https://wabisebi.github.io/blog/index.html</link>
 <description>Blogging experiment. Japanese culture, language learning, coding and other things I'm into.</description><language>en</language>
-<lastBuildDate>Wed, 29 Jan 2025 11:50:27 +0100</lastBuildDate>
-<pubDate>Wed, 29 Jan 2025 11:50:27 +0100</pubDate>
+<lastBuildDate>Wed, 29 Jan 2025 15:37:31 +0100</lastBuildDate>
+<pubDate>Wed, 29 Jan 2025 15:37:31 +0100</pubDate>
 <atom:link href="https://wabisebi.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+I Made My First YouTube Video
+</title><description><![CDATA[
+
+<p>Whether it&rsquo;s figuring out how to fix a broken faucet, learning code, or watching <a href="https://www.youtube.com/watch?v=7DHOVziRwBA">let&rsquo;s play videos in Japanese</a>, YouTube is the place where I consume most of my content. My ADD brain thrives on receiving information via moving images, sounds, and animations.</p>
+
+<p>I&rsquo;ve always been curious about the process of making a video from start to finish but never had an idea what I could make a video about. My life is too mundane for vlogs, and the illustrations I work on usually fall under non-disclosure agreements, making it hard to share the entire process in a video.</p>
+
+<p>During my last visit to Japan in June, I decided to do a little filming project, making a fully edited and color-graded travel video, and <a href="./sharing-counts.html">against all expectations</a>, I actually finished it. I ended up buying a DJI Osmo Pocket 3, a cute little film camera with built-in stabilizer, together with some ND filters that help shoot in bright daylight. Over the course of two weeks, I shot scenes during my long walks and travels through Tokyo.</p>
+
+<p>Upon coming home, I decided on the free editing software DaVinci Resolve, watched a ton of YouTube videos on editing, color-grading, and audio mixing, and made this little video.</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 2rem;">
+    <iframe 
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+        src="https://www.youtube.com/embed/Vi9HIfsZ5aA" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        allowfullscreen>
+    </iframe>
+</div>
+
+
+<p>P.S. If you&rsquo;d like to be my fifth follower and receive any notifications of future videos, consider subscribing to the channel. (A real YouTubery thing to say!)</p>
+
+<p>Tags: <a href='tag_life.html'>life</a></p>
+<!-- text end -->
+]]></description><link>https://wabisebi.github.io/blog/i-made-my-first-youtube-video.html</link>
+<guid>https://wabisebi.github.io/blog/./i-made-my-first-youtube-video.html</guid>
+<dc:creator>Seb</dc:creator>
+<pubDate>Wed, 29 Jan 2025 13:07:59 +0100</pubDate></item>
 <item><title>
 How I Learned Hiragana and Katakana
 </title><description><![CDATA[
@@ -47,6 +79,8 @@ How I Learned Hiragana and Katakana
 
 <p>Tags: <a href='tag_Japanese.html'>Japanese</a></p>
 
+
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/how-i-learned-the-kana.html</link>
 <guid>https://wabisebi.github.io/blog/./how-i-learned-the-kana.html</guid>
@@ -80,6 +114,9 @@ It Doesn&rsquo;t Count if You Don&rsquo;t Share it
 
 
 
+
+
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/sharing-counts.html</link>
 <guid>https://wabisebi.github.io/blog/./sharing-counts.html</guid>
@@ -104,6 +141,9 @@ Clean Slate
 <p><img src="./img/pico-markdown.png" alt="cleanslate" /></p>
 
 <p>Tags: <a href='tag_life.html'>life</a>, <a href='tag_code.html'>code</a></p>
+
+
+
 
 
 
