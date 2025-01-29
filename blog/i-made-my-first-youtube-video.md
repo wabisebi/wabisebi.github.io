@@ -1,6 +1,6 @@
 I Made My First YouTube Video
 
-During my last visit to Japan in June, I started my first small video project: creating a fully edited and color-graded travel video. And [against all expectations](./sharing-counts.html), I actually finished it. I ended up buying a DJI Osmo Pocket 3—a cute little film camera with a built-in stabilizer—along with some ND filters to help shoot in bright daylight. Over the course of two weeks, I captured scenes during my long walks through Tokyo.
+During my last visit to Japan in June, I started my first small video project: creating a fully edited and color-graded travel video. And [against all expectations](./sharing-counts.html), I actually finished it. I bought a DJI Osmo Pocket 3—a cute little film camera with a built-in stabilizer—along with some ND filters to help shoot in bright daylight. Over the course of two weeks, I captured scenes during my long walks through Tokyo.
 
 After a ton of YouTube tutorials on editing, color-grading, and audio mixing, I made this little video.
 
