@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Wabisebi</title><link>https://wabisebi.github.io/blog/index.html</link>
 <description>Blogging experiment. Japanese culture, language learning, coding and other things I'm into.</description><language>en</language>
-<lastBuildDate>Wed, 29 Jan 2025 19:33:33 +0100</lastBuildDate>
-<pubDate>Wed, 29 Jan 2025 19:33:33 +0100</pubDate>
+<lastBuildDate>Wed, 29 Jan 2025 19:38:57 +0100</lastBuildDate>
+<pubDate>Wed, 29 Jan 2025 19:38:57 +0100</pubDate>
 <atom:link href="https://wabisebi.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 I Made My First YouTube Video
@@ -11,11 +11,11 @@ I Made My First YouTube Video
 
 <p>Whether it&rsquo;s figuring out how to fix a broken faucet, learning code, or watching <a href="https://www.youtube.com/watch?v=7DHOVziRwBA">let&rsquo;s play videos in Japanese</a>, YouTube is the place where I consume most of my daily content.</p>
 
-<p>I&rsquo;ve been curious about the process of making a video from start to finish but never had an compelling idea to make a video for.</p>
+<p>I&rsquo;ve been curious about the process of making a video from start to finish for a while but could never find a compelling idea to make a video about.</p>
 
 <p>During my last visit to Japan in June, I decided to do a little filming project, making a fully edited and color-graded travel video, and <a href="./sharing-counts.html">against all expectations</a>, I actually finished it. I ended up buying a DJI Osmo Pocket 3, a cute little film camera with built-in stabilizer, together with some ND filters that help shoot in bright daylight. Over the course of two weeks, I shot scenes during my long walks through Tokyo.</p>
 
-<p>I decided on the editing software DaVinci Resolve, watched a ton of YouTube videos on editing, color-grading, and audio mixing, and made this little video.</p>
+<p>I decided on the editing software DaVinci Resolve since it&rsquo;s free, watched a ton of YouTube videos on editing, color-grading, and audio mixing, and made this little video.</p>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 2rem;">
     <iframe 
