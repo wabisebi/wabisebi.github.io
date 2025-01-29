@@ -1,6 +1,6 @@
 I Made My First YouTube Video
 
-Last June I worked on my first video project while visiting Tokyo. I used a DJI Osmo Pocket 3—a cute little film camera that I picked up just before I left for Japan. Over the course of two weeks, I captured scenes during my solitary walks through Tokyo and lovely day trips with my, now, wife. 
+Last June I worked on my first video project while visiting Tokyo. I used a DJI Osmo Pocket 3—a small, cute-looking film camera which stabilizes itself during filming. Over the course of two weeks, I captured scenes during my walks through the vast metropolis of Tokyo as well as some lovely day trips with my partner.
 
 After a ton of YouTube tutorials on editing, color-grading, and audio mixing, this is the final result. The music is by one of my favorite Japanese musicians, Tomoyuki Asakawa and proved very helpful while making a selection of shots.  
 
