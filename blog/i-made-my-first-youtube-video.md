@@ -1,8 +1,8 @@
 I Made My First YouTube Video
 
-Whether it's figuring out how to fix a broken faucet, learning code, or watching [let's play videos in Japanese](https://www.youtube.com/watch?v=7DHOVziRwBA), YouTube is the place where I consume most of my daily content. My ADD brain thrives on receiving information via moving images, sounds, and animations.
+Whether it's figuring out how to fix a broken faucet, learning code, or watching [let's play videos in Japanese](https://www.youtube.com/watch?v=7DHOVziRwBA), YouTube is the place where I consume most of my daily content.
 
-I've always been curious about the process of making a video from start to finish but never had an idea what I could make a video about. My life is too mundane for vlogs, and the illustrations I work on usually fall under non-disclosure agreements, making it hard to share the entire process in a video.
+I've always been curious about the process of making a video from start to finish but never had an idea what I could make a video about.
 
 During my last visit to Japan in June, I decided to do a little filming project, making a fully edited and color-graded travel video, and [against all expectations](./sharing-counts.html), I actually finished it. I ended up buying a DJI Osmo Pocket 3, a cute little film camera with built-in stabilizer, together with some ND filters that help shoot in bright daylight. Over the course of two weeks, I shot scenes during my long walks and travels through Tokyo.
 
