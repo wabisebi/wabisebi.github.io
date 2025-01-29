@@ -2,16 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Wabisebi</title><link>https://wabisebi.github.io/blog/index.html</link>
 <description>Blogging experiment. Japanese culture, language learning, coding and other things I'm into.</description><language>en</language>
-<lastBuildDate>Wed, 29 Jan 2025 20:08:22 +0100</lastBuildDate>
-<pubDate>Wed, 29 Jan 2025 20:08:22 +0100</pubDate>
+<lastBuildDate>Wed, 29 Jan 2025 20:12:12 +0100</lastBuildDate>
+<pubDate>Wed, 29 Jan 2025 20:12:12 +0100</pubDate>
 <atom:link href="https://wabisebi.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 I Made My First YouTube Video
 </title><description><![CDATA[
 
-<p>During my last visit to Japan in June, I started my first small video project: creating a fully edited and color-graded travel video. And <a href="./sharing-counts.html">against all expectations</a>, I actually finished it. I bought a DJI Osmo Pocket 3—a cute little film camera with a built-in stabilizer—along with some ND filters to help shoot in bright daylight. Over the course of two weeks, I captured scenes during my long walks through Tokyo.</p>
+<p>During my visit to Japan last June, I worked on my first little film project, creating a fully edited and color-graded travel video. <a href="./sharing-counts.html">Against all expectations</a>, I actually finished it. I bought a DJI Osmo Pocket 3—a cute little film camera with a built-in stabilizer—along with some ND filters to help shoot in bright daylight. Over the course of two weeks, I captured scenes during my long walks through Tokyo.</p>
 
-<p>After a ton of YouTube tutorials on editing, color-grading, and audio mixing, I made this little video. The music is by one of my favorite Japanese musicians*, Tomoyuki Asakawa.</p>
+<p>After a ton of YouTube tutorials on editing, color-grading, and audio mixing, this is the end result. The music is by one of my favorite Japanese musicians, Tomoyuki Asakawa.</p>
+
+<p>It&rsquo;s been fun learning this stuff. If you&rsquo;d like to be my fifth follower and receive any notifications of future videos, consider subscribing to the channel.</p>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 2rem;">
     <iframe 
@@ -24,8 +26,6 @@ I Made My First YouTube Video
     </iframe>
 </div>
 
-
-<p>P.S. If you&rsquo;d like to be my fifth follower and receive any notifications of future videos, consider subscribing to the channel. (A real YouTubery thing to say!)</p>
 
 <p>Tags: <a href='tag_life.html'>life</a></p>
 <!-- text end -->
