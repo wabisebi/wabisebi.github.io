@@ -14,4 +14,4 @@ So, instead of building a website with tons of features that I then need to fill
 
 ![cleanslate](./img/pico-markdown.png)
 
-Tags: life, code
+Tags: life
