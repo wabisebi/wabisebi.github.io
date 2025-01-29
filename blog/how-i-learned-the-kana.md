@@ -1,6 +1,6 @@
 How I Learned Hiragana and Katakana
 
-The Japanese written language is a fusion of three distinct scripts. Children in Japan first learn hiragana and katakana before progressing to the more complex and vast set of kanji characters, which make up the largest part of the written language.
+The Japanese written language is a fusion of three distinct scripts. Children in Japan first learn Hiragana and Katakana, before progressing to the more complex and vast set of Kanji characters, which were imported from China around the 5th century CE.
 
 #### Phonetics
 Hiragana and Katakana are phonetic scripts, meaning they visually represent sounds used in speech and don't carry any meaning. Both character sets share the same syllables but serve different purposes within the language. Although not used this way in practice, you could technically spell all Japanese words using just these two scripts.
