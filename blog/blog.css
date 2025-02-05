@@ -14,6 +14,8 @@ ul,
 ol {
         margin-left: 24px;
         margin-right: 24px;
+        padding-left: 50px;
+        margin-left: 0;
 }
 
 #all_posts {
@@ -53,7 +55,6 @@ h4 {
 img {
         padding-top: 25px;
         max-width: 100%;
-        box-align: center;
 }
 
 #twitter {
