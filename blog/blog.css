@@ -53,6 +53,7 @@ h4 {
 img {
         padding-top: 25px;
         max-width: 100%;
+        box-align: center;
 }
 
 #twitter {

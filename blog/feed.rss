@@ -2,9 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Wabisebi</title><link>https://wabisebi.github.io/blog/index.html</link>
 <description>Blogging experiment. Japanese culture, language learning, coding and other things I'm into.</description><language>en</language>
-<lastBuildDate>Wed, 29 Jan 2025 20:54:00 +0100</lastBuildDate>
-<pubDate>Wed, 29 Jan 2025 20:54:00 +0100</pubDate>
+<lastBuildDate>Wed, 05 Feb 2025 12:29:48 +0100</lastBuildDate>
+<pubDate>Wed, 05 Feb 2025 12:29:48 +0100</pubDate>
 <atom:link href="https://wabisebi.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Fried Eggs and Japanese Super Immersion
+</title><description><![CDATA[
+
+<p>Two great things happened to me today:</p>
+
+<ol>
+<li><p>I learned the Japanese word for &lsquo;fried eggs,&rsquo; which I surprisingly never came across nor ever used in Japan, even though I love eating them. Maybe it&rsquo;s due to my heavy addiction to convenience store tamago-sando, which uses chopped up boiled eggs mixed with mayonnaise.</p></li>
+<li><p>Fried eggs are what Toriyama-san had for breakfast this morning. That in itself is not great for me per se; however, it comes from a video created by the guys behind a channel called <a href="https://www.youtube.com/@JSI55">Japanese Super Immersion</a>, which was recommended to me this morning and I have been really enjoying.</p></li>
+</ol>
+
+
+<h4>Finding Entertaining and Beginner-friendly Content</h4>
+
+<p>I&rsquo;ve had a hard time finding beginner level Japanese immersion content which is educational yet entertaining to watch. I easily get bored by the generic topics discussed on most language learning channels and when I find content that aligns with my interests its usually to difficult for me to enjoy.</p>
+
+<p>What makes the conversations between Toriyama-san and Miyazaki-san entertaining to watch for me is that they are similar to my own friends, not taking themselves too seriously and joking while having a conversation. I feel like I could easily hang out with them in real life, which also makes me genuinely interested in what they have to say, and that seems to be the part I was missing so far with other channels.</p>
+
+<p><img src="./img/fried-egg-nihongo.png" alt="fried-egg" /><em>One of several Anki flashcards I made this morning while watching &lsquo;Japanese Super Immersion&rsquo;</em></p>
+
+<p>Tags: <a href='tag_japanese.html'>japanese</a></p>
+<!-- text end -->
+]]></description><link>https://wabisebi.github.io/blog/the-japanese-super-immersion-channel.html</link>
+<guid>https://wabisebi.github.io/blog/./the-japanese-super-immersion-channel.html</guid>
+<dc:creator>Seb</dc:creator>
+<pubDate>Tue, 04 Feb 2025 23:17:42 +0100</pubDate></item>
 <item><title>
 I Made My First YouTube Video
 </title><description><![CDATA[
@@ -26,6 +52,14 @@ I Made My First YouTube Video
 
 
 <p>Tags: <a href='tag_life.html'>life</a></p>
+
+
+
+
+
+
+
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/i-made-my-first-youtube-video.html</link>
 <guid>https://wabisebi.github.io/blog/./i-made-my-first-youtube-video.html</guid>
@@ -72,6 +106,14 @@ How I Learned Hiragana and Katakana
 <p><img src="./img/ws_kana_shopsign.png" alt="kana-shop-sign" /><em>フレッシュジュース / FU-RE-S-SHU-JU-U-SU / Fresh Juice. Illustration of shop sign in Nagasaki</em></p>
 
 <p>Tags: <a href='tag_Japanese.html'>Japanese</a></p>
+
+
+
+
+
+
+
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/how-i-learned-the-kana.html</link>
 <guid>https://wabisebi.github.io/blog/./how-i-learned-the-kana.html</guid>
@@ -108,13 +150,21 @@ It Doesn&rsquo;t Count if You Don&rsquo;t Share it
 
 
 
+
+
+
+
+
+
+
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/sharing-counts.html</link>
 <guid>https://wabisebi.github.io/blog/./sharing-counts.html</guid>
 <dc:creator>Seb</dc:creator>
 <pubDate>Sat, 25 Jan 2025 18:01:29 +0100</pubDate></item>
 <item><title>
-Clean Slate
+A Clean Slate
 </title><description><![CDATA[
 
 <p>In 2001, I coded my first website, all about Spider-Man comics. I built it in HTML, complete with iframes and speech bubble drawings for the navigation. More sites followed: a Harry Potter fan site and a site celebrating the newly-launched Xbox to name a few.</p>
@@ -132,6 +182,12 @@ Clean Slate
 <p><img src="./img/pico-markdown.png" alt="cleanslate" /></p>
 
 <p>Tags: <a href='tag_life.html'>life</a></p>
+
+
+
+
+
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/clean-slate.html</link>
 <guid>https://wabisebi.github.io/blog/./clean-slate.html</guid>
