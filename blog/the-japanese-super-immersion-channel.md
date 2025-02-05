@@ -2,7 +2,7 @@ Fried Eggs and Japanese Super Immersion
 
 Two great things happened to me today:
 
-1. I learned the Japanese word for 'fried eggs,' which I surprisingly never came across nor ever used in Japan, even though I love eating them. Maybe it's due to my heavy addiction to convenience store [tamago-sando](https://www.youtube.com/watch?v=RelaC9GBwMs), which uses chopped up boiled eggs mixed with mayonnaise.
+1. I learned the Japanese word for 'fried eggs,' which I surprisingly never came across nor ever used in Japan, even though I love eating them. Maybe it's due to my heavy addiction to convenience store bought [tamago-sando](https://www.youtube.com/watch?v=RelaC9GBwMs), which uses chopped up boiled eggs mixed with mayonnaise.
 
 2. Fried eggs are what Toriyama-san had for breakfast this morning. That in itself is not great for me per se; however, it comes from a video created by the guys behind a channel called [Japanese Super Immersion](https://www.youtube.com/@JSI55), which was recommended to me this morning and I have been really enjoying.
 
