@@ -14,7 +14,7 @@ And that gets to the heart of the issue—not my progress, but the comparison to
 
 And so, to end on a positive note: What matters most is that I've improved consistently over these two years, studying daily without giving up. I may not have aced the N1 proficiency test in eight months or shocked any natives with my perfect Japanese, but I'm advancing at my own pace.
 
-As Matsuoka Shuzo would say: 諦めんだよ！
+As [Matsuoka Shuzo](https://www.youtube.com/watch?v=-9n66Aap13o) would say: 諦めんだよ！
  
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 2rem;">
     <iframe 
