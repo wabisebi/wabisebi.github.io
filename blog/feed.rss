@@ -2,9 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Wabisebi</title><link>https://wabisebi.github.io/blog/index.html</link>
 <description>Blogging experiment. Japanese culture, language learning, coding and other things I'm into.</description><language>en</language>
-<lastBuildDate>Fri, 07 Feb 2025 11:06:25 +0100</lastBuildDate>
-<pubDate>Fri, 07 Feb 2025 11:06:25 +0100</pubDate>
+<lastBuildDate>Fri, 07 Feb 2025 16:30:34 +0100</lastBuildDate>
+<pubDate>Fri, 07 Feb 2025 16:30:34 +0100</pubDate>
 <atom:link href="https://wabisebi.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+The Wild Web of Language Learning Gurus
+</title><description><![CDATA[
+
+<p>This morning marks exactly two years since I started studying Japanese. While I&rsquo;ve made considerable progress, I&rsquo;m feeling mixed emotions, with slight disappointment seeming to have the upper hand. I&rsquo;ve spent time this morning reflecting on why this is and where these feelings come from.</p>
+
+<h4>The Japanese Self-Study Community – A Double-Edged Sword</h4>
+
+<p>The Japanese self-study community on YouTube and Reddit is a peculiar one. While often inspiring, it&rsquo;s marked by heated debates about learning methods and personal dramas between community figures. Many prominent content creators are twenty-somethings who project unwavering confidence, competing to showcase perfect pitch accent while boasting about their rapid path to fluency.</p>
+
+<p>Their core message is consistent: achieve Japanese fluency quickly through intensive immersion—an idea popularized by the AJATT method. Some advocate living entirely in Japanese, disregarding your English-speaking friends and even sleeping with Japanese audio playing. They dismiss other approaches as wasteful, with one popular creator claiming that studying less than two hours daily means you should quit altogether. Add claims about permanent damage from learning concepts in the &ldquo;wrong order,&rdquo; and newcomers are left confused and anxious about where to begin.</p>
+
+<p>The problem here is that someone who is skilled at something is not necessarily good at teaching or inspiring new students about that skill. Speaking from experience, we sometimes pour vast amounts of time into skills to compensate for other areas of life. While mastery can build confidence, it can also lead to unrealistic expectations when teaching others or develop into an arrogant attitude.</p>
+
+<p>And that gets to the heart of the issue—not my progress, but the comparison to others. Comparison is the quickest way to drain joy from any pursuit, which is why I generally avoid social media. People all live their lives differently, choosing where to put their time, and we all have areas where we know we&rsquo;re not spending enough time.</p>
+
+<p>And so, to end on a positive note: What matters most is that I&rsquo;ve improved consistently over these two years, studying daily without giving up. I may not have aced the N1 proficiency test in eight months or shocked any natives with my perfect Japanese, but I&rsquo;m advancing at my own pace.
+As Matsuoka Shuzo would say: 諦めんだよ！</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 2rem;">
+    <iframe 
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+                    src="https://www.youtube.com/embed/KxGRhd_iWuE?si=fwtzHUCDxFbseF1S" 
+                            title="YouTube video player" 
+                                    frameborder="0" 
+                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                                                    allowfullscreen>
+                                                        </iframe>
+                                                        </div>
+
+
+<p>Tags: <a href='tag_Japanese.html'>Japanese</a></p>
+<!-- text end -->
+]]></description><link>https://wabisebi.github.io/blog/wild-web-gurus.html</link>
+<guid>https://wabisebi.github.io/blog/./wild-web-gurus.html</guid>
+<dc:creator>Seb</dc:creator>
+<pubDate>Thu, 06 Feb 2025 11:54:52 +0100</pubDate></item>
 <item><title>
 Fried Eggs and Japanese Super Immersion
 </title><description><![CDATA[
@@ -26,6 +63,8 @@ Fried Eggs and Japanese Super Immersion
 <p><img src="./img/fried-egg-nihongo.png" alt="fried-egg" /><em>One of several Anki flashcards I made this morning while watching &lsquo;Japanese Super Immersion&rsquo;</em></p>
 
 <p>Tags: <a href='tag_japanese.html'>japanese</a></p>
+
+
 
 
 
@@ -57,6 +96,8 @@ I Made My First YouTube Video
 
 
 <p>Tags: <a href='tag_life.html'>life</a></p>
+
+
 
 
 
@@ -129,6 +170,8 @@ How I Learned Hiragana and Katakana
 
 
 
+
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/how-i-learned-the-kana.html</link>
 <guid>https://wabisebi.github.io/blog/./how-i-learned-the-kana.html</guid>
@@ -178,6 +221,8 @@ It Doesn&rsquo;t Count if You Don&rsquo;t Share it
 
 
 
+
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/sharing-counts.html</link>
 <guid>https://wabisebi.github.io/blog/./sharing-counts.html</guid>
@@ -202,6 +247,8 @@ A Clean Slate
 <p><img src="./img/pico-markdown.png" alt="cleanslate" /></p>
 
 <p>Tags: <a href='tag_life.html'>life</a></p>
+
+
 
 
 
