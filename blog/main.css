@@ -6,14 +6,14 @@ body {
     font-style: normal;
     margin: 0;
     padding: 0;
-    background-color: #d7d7d7;
+    background-color: #c8c7c7;
 }
 
 #divbodyholder {
     padding: 0px;
     background-color: #DDD;
     width: 100%;
-    max-width: 960px;
+    max-width: 970px;
     margin: 24px auto;
     box-sizing: border-box;
 }
