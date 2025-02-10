@@ -1,6 +1,6 @@
 The Wild Web of Language Learning Gurus
 
-Today marks exactly two years since I started studying Japanese, and although I have made considerable progress, I'm feeling somewhat disappointed at my current level. This morning ,i've spent some time reflecting on where I think this feeling comes from.
+Today marks exactly two years since I started studying Japanese, and although I have made considerable progress, I'm feeling somewhat disappointed at my current level. This morning, I've spent some time reflecting on where I think this feeling comes from.
 
 #### The Japanese Self-Study Community – A Double-Edged Sword
 
