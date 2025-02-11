@@ -13,8 +13,6 @@ Whatever the reason, a recurring part of the narrative seems to be this "no pain
 
 And that gets to the heart of my issue this morning—not my progress, but the comparison to others is what is making me feel unhappy. It's learning 4,000 vocabulary words in two years and then seeing someone on Reddit who claims they learned 1,700 in just two weeks. Comparing ourselves to others is the quickest way to suck the joy out of anything we're doing. That's precisely why I spend very little time on social media these days. Even though I'm well aware of the pitfalls of comparison, I still let it get to me when it comes to language learning.
 
-#### 諦めんなよ！
-
 And so, I want to end on a positive note as well as a reminder to myself: What matters most is that I've improved consistently over these past two years, studying daily without giving up and building a consistent habit. I may not have aced the N1 proficiency test in eight months or shocked any natives with my perfect Japanese accent, but I'm advancing at my own pace and enjoying the moments when I am able to do new things.
 
 As [Matsuoka Shuzo](https://www.youtube.com/watch?v=-9n66Aap13o), Japan's most positive man, would say: 諦めんなよ！Never give up!
