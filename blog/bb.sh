@@ -20,7 +20,7 @@ global_variables() {
     global_software_version="2.10"
 
     # Blog title
-    global_title="wabisebi"
+    global_title=""
     # The typical subtitle for each blog
     global_description="trying to code a website"
     # The public base URL for this blog
