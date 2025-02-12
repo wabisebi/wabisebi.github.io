@@ -22,7 +22,7 @@ global_variables() {
     # Blog title
     global_title=""
     # The typical subtitle for each blog
-    global_description="trying to code a website"
+    global_description=""
     # The public base URL for this blog
     global_url=""
 
