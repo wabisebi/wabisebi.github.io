@@ -19,7 +19,7 @@
         <!-- Blog Title/Logo -->
         <a href="./index.html" style="
             font-size: 1.25rem;
-            font-weight: 500;
+            font-weight: 600;
             color: #333;
             margin-left: 0;
             text-decoration: none;
