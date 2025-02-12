@@ -10,9 +10,169 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap" rel="stylesheet">
-<title>Wabisebi - Blog</title><title>Wabisebi &mdash; Posts tagged "Japanese"</title>
+<title>Wabisebi - Blog</title><title>Wabisebi &mdash; Posts tagged "japanese"</title>
 </head><body>
-<div id="divbodyholder">
+<!-- Menu Bar Container -->
+<nav style="
+    background-color: white;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    padding: 0.75rem 0;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    width: 100%;
+">
+    <div style="
+        display: flex;
+        align-items: center;
+        width: 95%;
+        margin: 0 auto;
+        gap: 3rem;
+        height: 100%;
+    ">
+        <!-- Blog Title/Logo -->
+        <div style="
+            font-size: 1.25rem;
+            font-weight: bold;
+            color: #333;
+            margin-left: 0;
+        ">
+            wabisebi
+        </div>
+
+        <!-- Navigation Links -->
+        <div id="nav-links" style="
+            display: flex;
+            height: 100%;
+            margin-top: -0.75rem;
+            margin-bottom: -0.75rem;
+        ">
+            <a href="./index.html" style="
+                text-decoration: none;
+                color: #333;
+                font-weight: 500;
+                transition: color 0.2s;
+                padding: 0.75rem 1rem;
+            ">About</a>
+            <a href="./all_posts.html" style="
+                text-decoration: none;
+                color: #333;
+                font-weight: 500;
+                transition: color 0.2s;
+                padding: 0.75rem 1rem;
+            ">Posts</a>
+            <a href="./contact.html" style="
+                text-decoration: none;
+                color: #333;
+                font-weight: 500;
+                transition: color 0.2s;
+                padding: 0.75rem 1rem;
+            ">Contact</a>
+        </div>
+
+        <!-- Hamburger Menu Button (Hidden on Desktop) -->
+        <button id="hamburger" style="
+            display: none;
+            background: none;
+            border: none;
+            cursor: pointer;
+            padding: 0.5rem;
+        ">
+            <div style="width: 25px; height: 3px; background-color: #333; margin: 5px 0; transition: 0.4s;"></div>
+            <div style="width: 25px; height: 3px; background-color: #333; margin: 5px 0; transition: 0.4s;"></div>
+            <div style="width: 25px; height: 3px; background-color: #333; margin: 5px 0; transition: 0.4s;"></div>
+        </button>
+    </div>
+</nav>
+
+<style>
+    /* Reset link styles */
+    nav a {
+        color: #333 !important;
+        text-decoration: none !important;
+        transition: background-color 0.2s !important;
+    }
+    
+    nav a:hover {
+        color: #333 !important;
+        text-decoration: none !important;
+        background-color: #f0f0f0 !important;
+    }
+    
+    nav a:visited {
+        color: #333 !important;
+    }
+
+    /* Mobile responsiveness */
+    @media (max-width: 768px) {
+        #hamburger {
+            display: block !important;
+            position: absolute !important;
+            right: 2.5% !important;
+        }
+
+        #nav-links {
+            display: none !important;
+            position: absolute !important;
+            top: 100% !important;
+            left: 0 !important;
+            right: 0 !important;
+            background-color: white !important;
+            flex-direction: column !important;
+            padding: 1rem !important;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1) !important;
+            margin: 0 !important;
+        }
+
+        #nav-links.active {
+            display: flex !important;
+        }
+
+        #nav-links a {
+            padding: 0.5rem 1rem !important;
+        }
+
+        /* Hamburger menu animation */
+        #hamburger.active div:nth-child(1) {
+            transform: rotate(-45deg) translate(-5px, 6px) !important;
+        }
+
+        #hamburger.active div:nth-child(2) {
+            opacity: 0 !important;
+        }
+
+        #hamburger.active div:nth-child(3) {
+            transform: rotate(45deg) translate(-5px, -6px) !important;
+        }
+    }
+</style>
+
+<script>
+    document.getElementById('hamburger').addEventListener('click', function() {
+        this.classList.toggle('active');
+        document.getElementById('nav-links').classList.toggle('active');
+    });
+
+    // Close menu when clicking outside
+    document.addEventListener('click', function(event) {
+        const nav = document.querySelector('nav');
+        const hamburger = document.getElementById('hamburger');
+        const navLinks = document.getElementById('nav-links');
+        
+        if (!nav.contains(event.target) && navLinks.classList.contains('active')) {
+            hamburger.classList.remove('active');
+            navLinks.classList.remove('active');
+        }
+    });
+
+    // Close menu when window is resized above mobile breakpoint
+    window.addEventListener('resize', function() {
+        if (window.innerWidth > 768) {
+            document.getElementById('hamburger').classList.remove('active');
+            document.getElementById('nav-links').classList.remove('active');
+        }
+    });
+</script><div id="divbodyholder">
 <div class="headerholder"><div class="header">
 <div id="title">
 <h1 class="nomargin"><a class="ablack" href="https://wabisebi.github.io/blog/index.html">Wabisebi</a></h1>
@@ -58,7 +218,42 @@ Seb
                                                         </div>
 
 
-<p>Tags: <a href='tag_Japanese.html'>Japanese</a></p>
+<p>Tags: <a href='tag_japanese.html'>japanese</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- text end -->
 <h3><a class="ablack" href="fried-egg-immersion.html">
 Fried Eggs and Japanese Super Immersion
@@ -86,6 +281,41 @@ Seb
 <p><img src="./img/fried-egg-nihongo.png" alt="fried-egg" /><em>One of several Anki flashcards I made this morning while watching &lsquo;Japanese Super Immersion&rsquo;</em></p>
 
 <p>Tags: <a href='tag_Japanese.html'>Japanese</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -136,6 +366,41 @@ Seb
 <p><img src="./img/ws_kana_shopsign.png" alt="kana-shop-sign" /><em>フレッシュジュース / FU-RE-S-SHU-JU-U-SU / Fresh Juice. Illustration of shop sign in Nagasaki</em></p>
 
 <p>Tags: <a href='tag_Japanese.html'>Japanese</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
