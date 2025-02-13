@@ -2,9 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title></title><link>https://wabisebi.github.io/blog/index.html</link>
 <description></description><language>en</language>
-<lastBuildDate>Thu, 13 Feb 2025 10:56:31 +0100</lastBuildDate>
-<pubDate>Thu, 13 Feb 2025 10:56:31 +0100</pubDate>
+<lastBuildDate>Thu, 13 Feb 2025 11:07:25 +0100</lastBuildDate>
+<pubDate>Thu, 13 Feb 2025 11:07:25 +0100</pubDate>
 <atom:link href="https://wabisebi.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Learning Japanese
+</title><description><![CDATA[
+
+<p><img src="./img/ws_japanese_archive.png" alt="ws_archive" />
+text</p>
+
+
+
+
+
+
+<!-- text end -->
+]]></description><link>https://wabisebi.github.io/blog/learning-japanese.html</link>
+<guid>https://wabisebi.github.io/blog/./learning-japanese.html</guid>
+<dc:creator>Seb</dc:creator>
+<pubDate>Thu, 13 Feb 2025 10:39:33 +0100</pubDate></item>
+<item><title>
+About
+</title><description><![CDATA[
+
+<p>Hi I&rsquo;m Seb. This website is a blogging experiment for now. I write about language learning, Japanese culture, coding, book and other things I&rsquo;m into.</p>
+
+
+
+
+
+
+
+
+
+
+<!-- text end -->
+]]></description><link>https://wabisebi.github.io/blog/about.html</link>
+<guid>https://wabisebi.github.io/blog/./about.html</guid>
+<dc:creator>Seb</dc:creator>
+<pubDate>Wed, 12 Feb 2025 11:44:06 +0100</pubDate></item>
 <item><title>
 The Wild Web of Language Learning Gurus
 </title><description><![CDATA[
@@ -40,6 +77,8 @@ The Wild Web of Language Learning Gurus
 
 
 <p>Tags: <a href='tag_japanese.html'>japanese</a></p>
+
+
 
 
 
@@ -187,6 +226,8 @@ Fried Eggs and Japanese Super Immersion
 
 
 
+
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/fried-egg-immersion.html</link>
 <guid>https://wabisebi.github.io/blog/./fried-egg-immersion.html</guid>
@@ -213,6 +254,8 @@ I Made My First YouTube Video
 
 
 <p>Tags: <a href='tag_life.html'>life</a></p>
+
+
 
 
 
@@ -404,11 +447,37 @@ How I Learned Hiragana and Katakana
 
 
 
+
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/how-i-learned-the-kana.html</link>
 <guid>https://wabisebi.github.io/blog/./how-i-learned-the-kana.html</guid>
 <dc:creator>Seb</dc:creator>
 <pubDate>Mon, 27 Jan 2025 17:10:20 +0100</pubDate></item>
+<item><title>
+Support This Blog
+</title><description><![CDATA[
+
+<p>If you appreciate what you find here and would like to support the sustainability of this blog, please consider making a donation. I appreciate the support.</p>
+
+<p><img src="./img/ws_lucky_cat.png" alt="lucky_cat" /></p>
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- text end -->
+]]></description><link>https://wabisebi.github.io/blog/donate.html</link>
+<guid>https://wabisebi.github.io/blog/./donate.html</guid>
+<dc:creator>Seb</dc:creator>
+<pubDate>Sun, 26 Jan 2025 17:22:12 +0100</pubDate></item>
 <item><title>
 It Doesn&rsquo;t Count if You Don&rsquo;t Share it
 </title><description><![CDATA[
@@ -431,6 +500,8 @@ It Doesn&rsquo;t Count if You Don&rsquo;t Share it
 <img src="./img/godin-rubin-books.webp" alt="Seth Godin and Rick Rubin Books" /></p>
 
 <p>Tags: <a href='tag_thoughts.html'>thoughts</a></p>
+
+
 
 
 
@@ -594,6 +665,8 @@ A Clean Slate
 <p><img src="./img/pico-markdown.png" alt="cleanslate" /></p>
 
 <p>Tags: <a href='tag_life.html'>life</a></p>
+
+
 
 
 
