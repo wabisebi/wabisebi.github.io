@@ -31,4 +31,4 @@ The most useful thing for me right from the start was knowing Katakana. This scr
 
 ![kana-shop-sign](./img/ws_kana_shopsign.png)*フレッシュジュース / FU-RE-S-SHU-JU-U-SU / Fresh Juice. Illustration of shop sign in Nagasaki*
 
-Tags: Japanese
+Tags: japanese

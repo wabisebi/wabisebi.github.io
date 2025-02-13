@@ -14,4 +14,4 @@ What makes the conversations between Toriyama-san and Miyazaki-san entertaining 
 
 ![fried-egg](./img/fried-egg-nihongo.png)*One of several Anki flashcards I made this morning while watching 'Japanese Super Immersion'*
 
-Tags: Japanese
+Tags: japanese
