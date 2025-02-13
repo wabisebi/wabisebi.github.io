@@ -86,23 +86,6 @@ body {
     box-sizing: border-box;
 }
 
-.headerholder {
-    background-color: #f9f9f9;
-    border-top: solid 1px #ccc;
-    border-left: solid 1px #ccc;
-    border-right: solid 1px #ccc;
-    padding: 0px 9%;
-
-}
-
-.header {
-    width: 100%;
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 24px 0 8px;
-    box-sizing: border-box;
-}
-
 .content {
     margin-bottom: 5%;
 
