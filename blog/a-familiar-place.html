@@ -9,8 +9,9 @@
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap" rel="stylesheet">
-<title>Wabisebi - Blog</title><title>A Familiar Place in &ldquo;Japan Sinks 2020&rdquo;</title>
+<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
+
+<title>Wabisebi - Blog</title><title>A Familiar Place in &ldquo;Japan Sinks: 2020&rdquo;</title>
 </head><body>
 <!-- Menu Bar Container -->
 <nav style="
@@ -31,14 +32,15 @@
         height: 100%;
     ">
         <!-- Blog Title/Logo -->
-        <div style="
+        <a href="./index.html" style="
             font-size: 1.25rem;
-            font-weight: bold;
+            font-weight: 600;
             color: #333;
             margin-left: 0;
+            text-decoration: none;
         ">
-            wabisebi
-        </div>
+            wabisebi blog
+        </a>
 
         <!-- Navigation Links -->
         <div id="nav-links" style="
@@ -47,7 +49,7 @@
             margin-top: -0.75rem;
             margin-bottom: -0.75rem;
         ">
-            <a href="./index.html" style="
+            <a href="./about.html" style="
                 text-decoration: none;
                 color: #333;
                 font-weight: 500;
@@ -60,14 +62,14 @@
                 font-weight: 500;
                 transition: color 0.2s;
                 padding: 0.75rem 1rem;
-            ">Posts</a>
-            <a href="./contact.html" style="
+            ">All Posts</a>
+            <a href="./donate.html" style="
                 text-decoration: none;
                 color: #333;
                 font-weight: 500;
                 transition: color 0.2s;
                 padding: 0.75rem 1rem;
-            ">Contact</a>
+            ">Donate</a>
         </div>
 
         <!-- Hamburger Menu Button (Hidden on Desktop) -->
@@ -87,19 +89,56 @@
 
 <style>
     /* Reset link styles */
-    nav a {
+    nav #nav-links a {
         color: #333 !important;
         text-decoration: none !important;
         transition: background-color 0.2s !important;
+        font-size: 16px !important;
     }
     
-    nav a:hover {
+    nav #nav-links a:hover {
         color: #333 !important;
         text-decoration: none !important;
         background-color: #f0f0f0 !important;
     }
     
     nav a:visited {
+        color: #333 !important;
+    }
+
+    /* Title link styles */
+    nav > div > a,
+    nav > div > a:visited,
+    nav > div > a:hover {
+        color: #333 !important;
+    } */
+    nav #nav-links a {
+        color: #333 !important;
+        text-decoration: none !important;
+        transition: background-color 0.2s !important;
+        font-size: 16px !important;
+    }
+    
+    nav #nav-links a:hover {
+        color: #333 !important;
+        text-decoration: none !important;
+        background-color: #f0f0f0 !important;
+    }
+    
+    nav a:visited {
+        color: #333 !important;
+    }
+
+    /* Title link styles */
+    nav > div > a {
+        color: #333 !important;
+    }
+    
+    nav > div > a:visited {
+        color: #333 !important;
+    }
+    
+    nav > div > a:hover {
         color: #333 !important;
     }
 
@@ -119,17 +158,25 @@
             right: 0 !important;
             background-color: white !important;
             flex-direction: column !important;
-            padding: 1rem !important;
+            padding: 0 !important;
             box-shadow: 0 2px 4px rgba(0,0,0,0.1) !important;
             margin: 0 !important;
+            width: 100% !important;
+            z-index: 1000 !important;
+            min-width: 200px !important;
         }
 
         #nav-links.active {
             display: flex !important;
+            background-color: white !important;
         }
 
         #nav-links a {
-            padding: 0.5rem 1rem !important;
+            padding: 1rem !important;
+            width: 100% !important;
+            margin: 0 !important;
+            background-color: white !important;
+            border-bottom: 1px solid #eee !important;
         }
 
         /* Hamburger menu animation */
@@ -175,65 +222,39 @@
 </script><div id="divbodyholder">
 <div class="headerholder"><div class="header">
 <div id="title">
-<h1 class="nomargin"><a class="ablack" href="https://wabisebi.github.io/blog/index.html">Wabisebi</a></h1>
-<div id="description">Blogging experiment. Japanese culture, language learning, coding and other things I'm into.</div>
+<h1 class="nomargin"><a class="ablack" href="https://wabisebi.github.io/blog/index.html"></a></h1>
+<div id="description"></div>
 </div></div></div>
 <div id="divbody"><div class="content">
 <!-- entry begin -->
-<h3><a class="ablack" href="familiar-places.html">
-A Familiar Place in &ldquo;Japan Sinks 2020&rdquo;
+<h3><a class="ablack" href="a-familiar-place-in-ldquojapan-sinks-2020rdquo.html">
+A Familiar Place in &ldquo;Japan Sinks: 2020&rdquo;
 </a></h3>
-<!-- bashblog_timestamp: #202502112223.02# -->
-<div class="subtitle">February 11, 2025 &mdash; 
+<!-- bashblog_timestamp: #202502141252.01# -->
+<div class="subtitle">February 14, 2025 &mdash; 
 Seb
 </div>
 <!-- text begin -->
 
-<p>Yesterday</p>
+<p>Yesterday I started watching <a href="https://www.imdb.com/title/tt12031040/">Japan Sinks: 2020</a>, a mini-series based on the novel <a href="https://en.wikipedia.org/wiki/Japan_Sinks">Japan Sinks</a> by <a href="https://en.wikipedia.org/wiki/Sakyo_Komatsu">Sakyo Komatsu</a>. To be honest, the first episode was a real bummer for someone who is planning a move to Japan. However, I was pleasantly surprised to see some familiar buildings and locations in the opening scenes. Last June, <a href="./i-made-my-first-youtube-video.html">I filmed my first video</a>, and one of its locations - which I accidentally stumbled upon during my walks - was Komazawa Olympic Park.</p>
 
-<p><img src="./img/japan-sinks-01.png" alt="japan-sinks-shot01" /><em>caption</em></p>
+<h4>Komazawa Olympic Park Control Tower</h4>
 
-<p>text</p>
+<p>When I arrived at the park, I was immediately drawn to the Komazawa Olympic Park Control Tower, standing in the middle of the Central Plaza. I&rsquo;d never heard of it before but later found out that it was designed by the celebrated architect Yoshinobu Ashihara for the 1964 Tokyo Olympics.  Its structure refers to traditional Japanese wood architecture, but it&rsquo;s executed in a unique, concrete modernist style. Because it&rsquo;s so tall, it&rsquo;s the only shot I made during my trip where I panned the camera vertically. For the final video, I used a static shot of the bottom part since all the other shots were static. However, in the still from the anime, you can see the structure in its entirety.</p>
 
-<p><img src="./img/japan-sinks-02.png" alt="japan-sinks-shot02" /><em>caption</em></p>
+<p><img src="./img/ws_video_03v2.webp" alt="wb_location1" />
+<img src="./img/japan-sinks-02v2.webp" alt="japan-sinks-shot02" /><em>Still from Japan Sinks: 2020, (S1.E1 The Beginning of the End)</em></p>
 
-<p>more text</p>
+<h4>Olympic Park Stadium and Basketball Court</h4>
+
+<p>Adjacent to the Control Tower stands the Komazawa Olympic Park Stadium, also from 1964 but designed by Masachika Murata. Nowadays it&rsquo;s used as a multi-purpose stadium, mostly for football and rugby matches. This location plays an important part in the first episode of Japan Sinks. If you walk down the steps behind the stadium, you will get to the basketball court. You can see the orange basket in the bottom right corner of the anime screengrab—the same orange basket which I shot while extending my arm through the railing from above.
+<img src="./img/japan-sinks-01v2.webp" alt="japan-sinks-shot01" /><em>Still from Japan Sinks: 2020, (S1.E1 The Beginning of the End)</em>
+<img src="./img/ws_video_02v2.webp" alt="wb_location3" /><em>A grandfather and grandson share a playful moment as they fly a toy airplane together</em>
+<img src="./img/ws_video_01v2.webp" alt="wb_location1" /></p>
+
+<p>I&rsquo;ve only seen the first episode so far but I am enjoying the show, even if it&rsquo;s just for looking out for places I recognize.</p>
 
 <p>Tags: <a href='tag_life.html'>life</a></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- text end -->
 <!-- entry end -->
 </div>

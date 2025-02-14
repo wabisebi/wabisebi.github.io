@@ -3,7 +3,7 @@ How I Learned Hiragana and Katakana
 The Japanese written language is a fusion of three distinct scripts. Children in Japan first learn Hiragana and Katakana, before progressing to the more complex and vast set of Kanji characters, which were imported from China around the 5th century CE.
 
 #### Phonetics
-Hiragana and Katakana are phonetic scripts, meaning they visually represent sounds used in speech and don't carry any meaning. Both character sets share the same syllables but serve different purposes within the language. Although not used this way in practice, you could technically spell all Japanese words using just these two scripts.
+Hiragana and Katakana are phonetic scripts, meaning they visually represent sounds used in speech and don't carry any meaning. While both character sets largely share the same basic syllables, Katakana includes additional characters for representing foreign sounds not traditionally found in Japanese. Both scripts serve different purposes within the language. Although not used this way in practice, you could technically spell native Japanese words using just these two scripts.
 
 #### Memorizing Characters Using Mnemonics
 I found memorizing Hiragana and Katakana fairly easy, and it took me about a week. What worked best was utilizing **visual mnemonics** that simplify remembering information through simple associations.  
