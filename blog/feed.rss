@@ -2,9 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title></title><link>https://wabisebi.github.io/blog/index.html</link>
 <description></description><language>en</language>
-<lastBuildDate>Fri, 14 Feb 2025 14:13:34 +0100</lastBuildDate>
-<pubDate>Fri, 14 Feb 2025 14:13:34 +0100</pubDate>
+<lastBuildDate>Thu, 17 Apr 2025 10:50:22 +0200</lastBuildDate>
+<pubDate>Thu, 17 Apr 2025 10:50:22 +0200</pubDate>
 <atom:link href="https://wabisebi.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+1000 Hours of Blender - (H0 - 10)
+</title><description><![CDATA[
+
+<p>Now and again I get interested in learning to use 3D software. I&rsquo;ve done a few Blender (open-source 3D software) courses in the past but none of the things I have learned have seemed to stick since I don&rsquo;t use the software regularly. Last week I tried to set up a simple scene as a reference for an illustration I was working on and was shocked that I didn&rsquo;t even remember how to move a cube around in the 3D space.</p>
+
+<h4>Why 3D?</h4>
+
+<p>One of the main reasons I&rsquo;m looking into 3D software is because lately I just haven&rsquo;t been enjoying illustration as much, and I feel stuck with my current style. Drawing has never really been my thing naturally - most of my illustrations are actually just me piecing things together in Illustrator until they work. My process has always been more about methodically constructing images than drawing freehand. I spend hours tweaking and adjusting elements until they look right, building up an image out of separate elements. And honestly, I enjoy that &lsquo;building&rsquo; process way more than traditional drawing. What I&rsquo;m wondering is if the constructive nature of 3D modeling might align better with how I naturally approach visual creation, potentially offering me a new path forward.</p>
+
+<h4>1000 Hours</h4>
+
+<p>Because I&rsquo;ve tried Blender a few times before and then dropped it, I&rsquo;ve decided to commit to spending at least a thousand hours learning Blender.</p>
+
+<p><img src="./img/10hours_blender00.png" alt="blender10hours" /></p>
+
+<h4>First project - Modeling architecture</h4>
+
+<p>For my first project, I&rsquo;m working on something that is actually very helpful at the moment. My wife, who lives in Japan, and I are looking for a rental house in the Tokyo area. The average apartment in Tokyo is a lot smaller than what I am used to where I live. For one house that we are deciding on, I&rsquo;m using the blueprint to make a model to scale, fitting in all the things we want and getting a better picture.</p>
+
+<p>The first 10 hours in Blender have mostly been getting to know some of the basic navigation, modeling some walls and placing some downloaded assets. I barely have an idea of what I am doing, but at least it&rsquo;s helping us get an idea of the spaces we are looking at."</p>
+
+<p><img src="./img/10hours_blender01.png" alt="blender10hours" /></p>
+
+<p>Tags: <a href='tag_blender.html'>blender</a></p>
+
+<!-- text end -->
+]]></description><link>https://wabisebi.github.io/blog/10-hours-blender.html</link>
+<guid>https://wabisebi.github.io/blog/./10-hours-blender.html</guid>
+<dc:creator>Seb</dc:creator>
+<pubDate>Tue, 01 Apr 2025 12:04:05 +0200</pubDate></item>
 <item><title>
 A Familiar Place in &ldquo;Japan Sinks: 2020&rdquo;
 </title><description><![CDATA[
@@ -28,6 +59,8 @@ A Familiar Place in &ldquo;Japan Sinks: 2020&rdquo;
 <p>I&rsquo;ve only seen the first episode so far but I am enjoying the show, even if it&rsquo;s just for looking out for places I recognize.</p>
 
 <p>Tags: <a href='tag_guide.html'>guide</a></p>
+
+
 
 
 <!-- text end -->
@@ -73,6 +106,8 @@ The Wild Web of Language Learning Gurus
 
 
 
+
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/wild-web-gurus.html</link>
 <guid>https://wabisebi.github.io/blog/./wild-web-gurus.html</guid>
@@ -99,6 +134,8 @@ Fried Eggs and Japanese Super Immersion
 <p><img src="./img/fried-egg-nihongo.png" alt="fried-egg" /><em>One of several Anki flashcards I made this morning while watching &lsquo;Japanese Super Immersion&rsquo;</em></p>
 
 <p>Tags: <a href='tag_japanese.html'>japanese</a></p>
+
+
 
 
 
@@ -284,6 +321,8 @@ I Made My First YouTube Video
 
 
 
+
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/i-made-my-first-youtube-video.html</link>
 <guid>https://wabisebi.github.io/blog/./i-made-my-first-youtube-video.html</guid>
@@ -330,6 +369,8 @@ How I Learned Hiragana and Katakana
 <p><img src="./img/ws_kana_shopsign.png" alt="kana-shop-sign" /><em>フレッシュジュース / FU-RE-S-SHU-JU-U-SU / Fresh Juice. Illustration of shop sign in Nagasaki</em></p>
 
 <p>Tags: <a href='tag_japanese.html'>japanese</a></p>
+
+
 
 
 <!-- text end -->
@@ -505,6 +546,8 @@ It Doesn&rsquo;t Count if You Don&rsquo;t Share it
 
 
 
+
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/sharing-counts.html</link>
 <guid>https://wabisebi.github.io/blog/./sharing-counts.html</guid>
@@ -529,6 +572,8 @@ A Clean Slate
 <p><img src="./img/pico-markdown.png" alt="cleanslate" /></p>
 
 <p>Tags: <a href='tag_life.html'>life</a></p>
+
+
 
 
 
