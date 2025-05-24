@@ -2,30 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title></title><link>https://wabisebi.github.io/blog/index.html</link>
 <description></description><language>en</language>
-<lastBuildDate>Sat, 19 Apr 2025 12:42:26 +0200</lastBuildDate>
-<pubDate>Sat, 19 Apr 2025 12:42:26 +0200</pubDate>
+<lastBuildDate>Sat, 24 May 2025 19:46:04 +0200</lastBuildDate>
+<pubDate>Sat, 24 May 2025 19:46:04 +0200</pubDate>
 <atom:link href="https://wabisebi.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
-I Will Learn Blender 💪🏻
+Learn Japanese with Tanaka san
 </title><description><![CDATA[
 
-<p>Now and again I get interested in learning to use 3D software. One of the main reasons I&rsquo;m looking into 3D software is because lately I just haven&rsquo;t been enjoying illustration as much, and I feel stuck with my current style. Drawing has never really been my thing naturally - most of my illustrations are actually just me piecing things together in Illustrator until they work. My process has always been more about methodically constructing images than drawing freehand. I spend hours tweaking and adjusting elements until they look right, building up an image out of separate elements. And honestly, I enjoy that &lsquo;building&rsquo; process way more than traditional drawing.</p>
+<p><img src="./img/tanaka-san-japanese.png" alt="img" />
+I&rsquo;ve been sentence mining some new vocabulary words today from the beginner-friendly YouTube channel <a href="https://www.youtube.com/@japanese_tanakasan">Learn Japanese with Tanaka san</a> and wanted to share it here as I think it&rsquo;s a great channel. Right now I have about 80-90% word comprehension on most videos, which is perfect as I understand most of what is being said but am still picking up some new, high-frequency words. Oh, and I like the cute illustrated characters too.</p>
 
-<p>What I&rsquo;m wondering is if the constructive nature of 3D modeling might align better with how I naturally approach visual creation, potentially offering me a new path forward.</p>
+<p><img src="./img/japanese_tanaka_san.png" alt="img" /></p>
 
-<p>Because I&rsquo;ve tried Blender a few times before and then dropped it, I&rsquo;ve decided to commit to spending at least a thousand hours learning Blender. This time I want to get past the &lsquo;tutorial&rsquo; phase and actually start making some 3D illustrations.
-However, I will have to start with that basic cube and figuring out how the hell it even moves around in the 3D space.</p>
+<p>Tags: <a href='tag_japanese.html'>japanese</a></p>
 
-<p><img src="./img/10hours_blender00.png" alt="blender10hours" /></p>
+<!-- text end -->
+]]></description><link>https://wabisebi.github.io/blog/learn-japanese-with-tanaka-san.html</link>
+<guid>https://wabisebi.github.io/blog/./learn-japanese-with-tanaka-san.html</guid>
+<dc:creator>Seb</dc:creator>
+<pubDate>Sat, 24 May 2025 19:42:30 +0200</pubDate></item>
+<item><title>
+Learning 6K Vocabulary in a better context
+</title><description><![CDATA[
 
-<p>Tags: <a href='tag_blender.html'>blender</a></p>
+<p>One discrepancy with my Japanese studies at the moment is that I have spent the last two years learning around 4,500 vocabulary words that I can read, yet can&rsquo;t hold a basic conversation in Japanese. Although this was a conscious decision when studying, focusing more on understanding and reading instead of producing sentences, I feel somewhat worried about not being able to hold even very basic conversations, and I will be moving to Japan in two weeks.</p>
+
+<p>Today I spent some time looking up basic conversations in Japanese and found this very helpful YouTube channel with great content.</p>
+
+<p><img src="./img/juncho_01.png" alt="juncho_1" /></p>
+
+<p><img src="./img/juncho_02.png" alt="juncho_1" />
+This gives me more context. especially conbined with the previous card i created, to which this one is an answer</p>
+
+<p><img src="./img/juncho_03.png" alt="juncho_1" /></p>
+
+<p>Tags: <a href='tag_japanese.html'>japanese</a></p>
 
 
 <!-- text end -->
-]]></description><link>https://wabisebi.github.io/blog/i-will-learn-blender-.html</link>
-<guid>https://wabisebi.github.io/blog/./i-will-learn-blender-.html</guid>
+]]></description><link>https://wabisebi.github.io/blog/some-doubts-about-the-core6k-deck.html</link>
+<guid>https://wabisebi.github.io/blog/./some-doubts-about-the-core6k-deck.html</guid>
 <dc:creator>Seb</dc:creator>
-<pubDate>Sat, 19 Apr 2025 12:38:43 +0200</pubDate></item>
+<pubDate>Tue, 13 May 2025 12:06:42 +0200</pubDate></item>
 <item><title>
 A Familiar Place in &ldquo;Japan Sinks: 2020&rdquo;
 </title><description><![CDATA[
@@ -49,6 +67,8 @@ A Familiar Place in &ldquo;Japan Sinks: 2020&rdquo;
 <p>I&rsquo;ve only seen the first episode so far but I am enjoying the show, even if it&rsquo;s just for looking out for places I recognize.</p>
 
 <p>Tags: <a href='tag_guide.html'>guide</a></p>
+
+
 
 
 
@@ -102,6 +122,8 @@ The Wild Web of Language Learning Gurus
 
 
 
+
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/wild-web-gurus.html</link>
 <guid>https://wabisebi.github.io/blog/./wild-web-gurus.html</guid>
@@ -128,6 +150,8 @@ Fried Eggs and Japanese Super Immersion
 <p><img src="./img/fried-egg-nihongo.png" alt="fried-egg" /><em>One of several Anki flashcards I made this morning while watching &lsquo;Japanese Super Immersion&rsquo;</em></p>
 
 <p>Tags: <a href='tag_japanese.html'>japanese</a></p>
+
+
 
 
 
@@ -321,6 +345,8 @@ I Made My First YouTube Video
 
 
 
+
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/i-made-my-first-youtube-video.html</link>
 <guid>https://wabisebi.github.io/blog/./i-made-my-first-youtube-video.html</guid>
@@ -367,6 +393,8 @@ How I Learned Hiragana and Katakana
 <p><img src="./img/ws_kana_shopsign.png" alt="kana-shop-sign" /><em>フレッシュジュース / FU-RE-S-SHU-JU-U-SU / Fresh Juice. Illustration of shop sign in Nagasaki</em></p>
 
 <p>Tags: <a href='tag_japanese.html'>japanese</a></p>
+
+
 
 
 
@@ -550,6 +578,8 @@ It Doesn&rsquo;t Count if You Don&rsquo;t Share it
 
 
 
+
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/sharing-counts.html</link>
 <guid>https://wabisebi.github.io/blog/./sharing-counts.html</guid>
@@ -574,6 +604,8 @@ A Clean Slate
 <p><img src="./img/pico-markdown.png" alt="cleanslate" /></p>
 
 <p>Tags: <a href='tag_life.html'>life</a></p>
+
+
 
 
 
