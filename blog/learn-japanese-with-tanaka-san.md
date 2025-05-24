@@ -5,7 +5,4 @@ I've been sentence mining some new vocabulary words today from the beginner-frie
 
 ![img](./img/umeboshi_anki.png)*One of the cards I made today*
 
-![img](./img/tanaka-san-japanese2.png)*One of the cards I made today*
-
-
 Tags: japanese
