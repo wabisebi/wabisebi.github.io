@@ -2,24 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title></title><link>https://wabisebi.github.io/blog/index.html</link>
 <description></description><language>en</language>
-<lastBuildDate>Sat, 24 May 2025 20:20:45 +0200</lastBuildDate>
-<pubDate>Sat, 24 May 2025 20:20:45 +0200</pubDate>
+<lastBuildDate>Wed, 02 Jul 2025 11:28:55 +0900</lastBuildDate>
+<pubDate>Wed, 02 Jul 2025 11:28:55 +0900</pubDate>
 <atom:link href="https://wabisebi.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
-Learn Japanese with Tanaka san
+Realizing I Need Grammar
 </title><description><![CDATA[
 
-<p><img src="./img/tanaka-san-japanese.png" alt="img" />
-I&rsquo;ve been sentence mining some new vocabulary words today from the beginner-friendly YouTube channel <a href="https://www.youtube.com/@japanese_tanakasan">Learn Japanese with Tanaka san</a> and wanted to share it here as I think it&rsquo;s a great channel. Right now I have about 80-90% word comprehension on most videos, which is perfect as I understand most of what is being said but am still picking up some new, high-frequency words. Oh, and I like the cute illustrated characters too.</p>
+<p>Not knowing much grammar is becoming a real problem—something I’ve been really noticing now that I’ve moved to Japan. I had hoped to pick it up naturally through immersion, but since I’ve spent most of my time reviewing and adding new vocabulary and kanji readings, I feel like I’m missing the glue that holds everything together. It’s frustrating that I can’t form meaningful sentences when talking to people I meet. Even though I know a large number of isolated words, I still struggle to put them together in a way that makes sense. Just the other day, I met the owner of the izakaya next door, and when he started asking me questions about just moving here, I broke out in a sweat—I couldn’t find a way to respond beyond a few awkward words and gestures. In a way, when it comes to actual communication, I don’t feel much more advanced than I was two years ago.</p>
 
-<p><img src="./img/umeboshi_anki.png" alt="img" /><em>One of the cards I made today</em></p>
+<p><img src="./img/ws_slamdunk_grammar.jpg" alt="img" /><em>img: slam dunk</em></p>
 
 <p>Tags: <a href='tag_japanese.html'>japanese</a></p>
+
+<!-- text end -->
+]]></description><link>https://wabisebi.github.io/blog/realizing-i-need-grammar.html</link>
+<guid>https://wabisebi.github.io/blog/./realizing-i-need-grammar.html</guid>
+<dc:creator>Seb</dc:creator>
+<pubDate>Wed, 02 Jul 2025 11:13:47 +0900</pubDate></item>
+<item><title>
+Japanese with Tanaka-san and Creating New Flashcards for Familiar Vocabulary
+</title><description><![CDATA[
+
+<p><img src="./img/tanaka-san-japanese.png" alt="img" /></p>
+
+<p>I&rsquo;ve been sentence mining some new vocabulary words today from the beginner-friendly YouTube channel <a href="https://www.youtube.com/@japanese_tanakasan">Learn Japanese with Tanaka san</a> and wanted to share it here as I think it&rsquo;s a good channel. Right now I have about 80-90% word comprehension on most videos, which works well since I understand most of what is being said but am still picking up some new, high-frequency words.</p>
+
+<p>What I&rsquo;ve found useful is that I&rsquo;m also encountering words I already know from my Anki deck, but seeing them used in natural contexts and different sentence patterns. It&rsquo;s been helpful for reinforcing my understanding and picking up more nuanced usage that I might have missed when just learning the isolated vocabulary. It&rsquo;s one thing to know a word&rsquo;s definition, but seeing how it actually works in conversation makes a difference.</p>
+
+<p>I&rsquo;ve been creating new flashcards for these already known words with the sentences from the videos, and now I&rsquo;m wondering if I should delete the original cards from my core 6k deck since the new context-based ones seem more useful.</p>
+
+<p><img src="./img/tanaka-san-japanese2.png" alt="img" /><em>One of the cards I made today</em></p>
+
+<p>Tags: <a href='tag_japanese.html'>japanese</a></p>
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/learn-japanese-with-tanaka-san.html</link>
 <guid>https://wabisebi.github.io/blog/./learn-japanese-with-tanaka-san.html</guid>
 <dc:creator>Seb</dc:creator>
-<pubDate>Sat, 24 May 2025 19:42:30 +0200</pubDate></item>
+<pubDate>Sat, 24 May 2025 19:42:30 +0900</pubDate></item>
 <item><title>
 A Familiar Place in &ldquo;Japan Sinks: 2020&rdquo;
 </title><description><![CDATA[
@@ -52,11 +73,12 @@ A Familiar Place in &ldquo;Japan Sinks: 2020&rdquo;
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/a-familiar-place.html</link>
 <guid>https://wabisebi.github.io/blog/./a-familiar-place.html</guid>
 <dc:creator>Seb</dc:creator>
-<pubDate>Fri, 14 Feb 2025 12:52:01 +0100</pubDate></item>
+<pubDate>Fri, 14 Feb 2025 12:52:01 +0900</pubDate></item>
 <item><title>
 The Wild Web of Language Learning Gurus
 </title><description><![CDATA[
@@ -102,11 +124,12 @@ The Wild Web of Language Learning Gurus
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/wild-web-gurus.html</link>
 <guid>https://wabisebi.github.io/blog/./wild-web-gurus.html</guid>
 <dc:creator>Seb</dc:creator>
-<pubDate>Sun, 09 Feb 2025 14:43:49 +0100</pubDate></item>
+<pubDate>Sun, 09 Feb 2025 14:43:49 +0900</pubDate></item>
 <item><title>
 Fried Eggs and Japanese Super Immersion
 </title><description><![CDATA[
@@ -157,11 +180,12 @@ Fried Eggs and Japanese Super Immersion
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/fried-egg-immersion.html</link>
 <guid>https://wabisebi.github.io/blog/./fried-egg-immersion.html</guid>
 <dc:creator>Seb</dc:creator>
-<pubDate>Tue, 04 Feb 2025 23:17:42 +0100</pubDate></item>
+<pubDate>Tue, 04 Feb 2025 23:17:42 +0900</pubDate></item>
 <item><title>
 I Made My First YouTube Video
 </title><description><![CDATA[
@@ -327,11 +351,12 @@ I Made My First YouTube Video
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/i-made-my-first-youtube-video.html</link>
 <guid>https://wabisebi.github.io/blog/./i-made-my-first-youtube-video.html</guid>
 <dc:creator>Seb</dc:creator>
-<pubDate>Wed, 29 Jan 2025 13:07:59 +0100</pubDate></item>
+<pubDate>Wed, 29 Jan 2025 13:07:59 +0900</pubDate></item>
 <item><title>
 How I Learned Hiragana and Katakana
 </title><description><![CDATA[
@@ -382,11 +407,12 @@ How I Learned Hiragana and Katakana
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/how-i-learned-the-kana.html</link>
 <guid>https://wabisebi.github.io/blog/./how-i-learned-the-kana.html</guid>
 <dc:creator>Seb</dc:creator>
-<pubDate>Mon, 27 Jan 2025 17:10:20 +0100</pubDate></item>
+<pubDate>Mon, 27 Jan 2025 17:10:20 +0900</pubDate></item>
 <item><title>
 It Doesn&rsquo;t Count if You Don&rsquo;t Share it
 </title><description><![CDATA[
@@ -562,11 +588,12 @@ It Doesn&rsquo;t Count if You Don&rsquo;t Share it
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/sharing-counts.html</link>
 <guid>https://wabisebi.github.io/blog/./sharing-counts.html</guid>
 <dc:creator>Seb</dc:creator>
-<pubDate>Sat, 25 Jan 2025 18:01:29 +0100</pubDate></item>
+<pubDate>Sat, 25 Jan 2025 18:01:29 +0900</pubDate></item>
 <item><title>
 A Clean Slate
 </title><description><![CDATA[
@@ -728,9 +755,10 @@ A Clean Slate
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/clean-slate.html</link>
 <guid>https://wabisebi.github.io/blog/./clean-slate.html</guid>
 <dc:creator>Seb</dc:creator>
-<pubDate>Wed, 22 Jan 2025 12:41:52 +0100</pubDate></item>
+<pubDate>Wed, 22 Jan 2025 12:41:52 +0900</pubDate></item>
 </channel></rss>
