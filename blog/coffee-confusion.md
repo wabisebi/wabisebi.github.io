@@ -13,4 +13,4 @@ Out of curiosity, I looked up where this “Japanese coffee” label might come.
 ![anki_drip_coffee_card](./img/ws_coffee_maker.png)
 *via: https://www.youtube.com/watch?v=3r7cRS0w5MU&t=175s*
 
-Tags: japanese
+Tags: japanese, vocabulary, mining
