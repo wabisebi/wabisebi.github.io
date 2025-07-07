@@ -1,6 +1,6 @@
 Sentence Mining Within the Core 6K Deck
 
-I’ve worked through about two-thirds of the Core6k deck so far. At some point, I got bored with it and shifted to sentence mining—mainly picking out new words from content I actually enjoy, like shows, articles, or YouTube videos.
+I’ve worked through about two-thirds of the [Core 6k Anki deck](https://ankiweb.net/shared/info/1880390099) so far. At some point, I got bored with it and shifted to sentence mining—mainly picking out new words from content I actually enjoy, like shows, articles, or YouTube videos.
 
 But every now and then, especially while reading the NHK Easy website, I come across words that turn out to be from the unseen part of the Core6k deck. Even though I haven’t officially studied those cards yet, I end up mining them naturally through immersion.
 
