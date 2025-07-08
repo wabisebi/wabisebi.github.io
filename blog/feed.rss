@@ -2,39 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title></title><link>https://wabisebi.github.io/blog/index.html</link>
 <description></description><language>en</language>
-<lastBuildDate>Tue, 08 Jul 2025 22:03:07 +0900</lastBuildDate>
-<pubDate>Tue, 08 Jul 2025 22:03:07 +0900</pubDate>
+<lastBuildDate>Tue, 08 Jul 2025 22:03:43 +0900</lastBuildDate>
+<pubDate>Tue, 08 Jul 2025 22:03:43 +0900</pubDate>
 <atom:link href="https://wabisebi.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
-Picking up my first manga for immersion
-</title><description><![CDATA[
-
-<p><img src="./img/ws_slam_dunk_double.jpg" alt="slam_dunk_manga" /></p>
-
-<p>write about atashi and nano particle.</p>
-
-<p>New words learned today:</p>
-
-<ul>
-<li>ねじ - screw</li>
-<li>クランプ - clamp</li>
-<li>窓側 - window-side</li>
-<li>引き上げる - pull up, salvage</li>
-<li>値上がり - price rise</li>
-<li>値上げ - price hike/raise</li>
-<li>取り上げる - take up, confiscate</li>
-<li>座席 - seat</li>
-</ul>
-
-
-<p>Tags: <a href='tag_japanese.html'>japanese</a></p>
-<!-- text end -->
-]]></description><link>https://wabisebi.github.io/blog/pickig-up-my-first-manga-for-immersion.html</link>
-<guid>https://wabisebi.github.io/blog/./pickig-up-my-first-manga-for-immersion.html</guid>
-<dc:creator>Seb</dc:creator>
-<pubDate>Tue, 08 Jul 2025 11:22:17 +0900</pubDate></item>
-<item><title>
-Coffee Confusion
+Coffee Confusion at Tully&rsquo;s
 </title><description><![CDATA[
 
 <p><img src="./img/ws_tully_kohi.jpg" alt="tully_coffee_sign" /></p>
@@ -562,4 +534,37 @@ How I Learned Hiragana and Katakana
 <guid>https://wabisebi.github.io/blog/./how-i-learned-the-kana.html</guid>
 <dc:creator>Seb</dc:creator>
 <pubDate>Mon, 27 Jan 2025 17:10:20 +0900</pubDate></item>
+<item><title>
+Support This Blog
+</title><description><![CDATA[
+
+<p>If you appreciate what you find here and would like to support the sustainability of this blog, please consider making a donation. I appreciate the support.</p>
+
+<p><img src="./img/ws_lucky_cat.png" alt="lucky_cat" /></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- text end -->
+]]></description><link>https://wabisebi.github.io/blog/donate.html</link>
+<guid>https://wabisebi.github.io/blog/./donate.html</guid>
+<dc:creator>Seb</dc:creator>
+<pubDate>Sun, 26 Jan 2025 17:22:12 +0900</pubDate></item>
 </channel></rss>

@@ -1,4 +1,4 @@
-Coffee Confusion
+Coffee Confusion at Tully's
 
 ![tully_coffee_sign](./img/ws_tully_kohi.jpg)
 
