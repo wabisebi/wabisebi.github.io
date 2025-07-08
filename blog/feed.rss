@@ -2,12 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title></title><link>https://wabisebi.github.io/blog/index.html</link>
 <description></description><language>en</language>
-<lastBuildDate>Mon, 07 Jul 2025 11:29:01 +0900</lastBuildDate>
-<pubDate>Mon, 07 Jul 2025 11:29:01 +0900</pubDate>
+<lastBuildDate>Tue, 08 Jul 2025 11:06:18 +0900</lastBuildDate>
+<pubDate>Tue, 08 Jul 2025 11:06:18 +0900</pubDate>
 <atom:link href="https://wabisebi.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 Coffee Confusion
 </title><description><![CDATA[
+
+<p><img src="./img/ws_tully_kohi.jpg" alt="tully_coffee_sign" /></p>
 
 <p>This morning, I decided to get regular coffee instead of my usual café latte at Tully’s. I was already a bit thrown off to learn that what they call “drip coffee” is just regular coffee that comes out of a machine—not hand-poured or anything fancy. But what really confused me was the Japanese menu, where “drip coffee” was labeled as 日本のコーヒー, which literally means “Japanese coffee.”</p>
 
@@ -15,15 +17,18 @@ Coffee Confusion
 
 <p>Out of curiosity, I looked up where this “Japanese coffee” label might come. Even ChatGPT doesn’t seem entirely sure why drip coffee was labeled that way in this case. Anyhow, I ended up sentence-mining a few coffee-related expressions. Obviously, these are easy <a href="./how-i-learned-the-kana.html">katakana</a> words that I don&rsquo;t necessarily need to add to my flashcards, but I&rsquo;ve found it helpful to hear the audio every now and then for words I frequently use in daily conversation.</p>
 
-<p><img src="./img/ws_chatgpt_dripcoffee.png" alt="chatgpt_explanation" /><em>ChatGPT</em></p>
+<p><img src="./img/ws_chatgpt_dripcoffee.png" alt="chatgpt_explanation" /></p>
+
+<p><strong>! UPDATE</strong></p>
+
+<p>As I was talking about this with my wife later today, she pointed out that the kanji 本日 in this case is read as honjitsu, meaning “today.” So 本日のコーヒー means “today’s coffee,” referring to the specific beans being used that day.</p>
+
+<p>Since 本日 can also be read as Nihon (“Japan”), I had initially interpreted it as “Japanese coffee,” but honjitsu makes much more sense in this context. That said, it would still feel a bit odd to order “today’s coffee,” so you’d probably just say “hot coffee” or “drippu kōhī” (ドリップコーヒー) when ordering.</p>
 
 <p><img src="./img/ws_drippu.png" alt="anki_drip_coffee_card" />
-<em>via: https://www.youtube.com/watch?v=VZ16eqDVk3c&amp;t=45s</em>
-<img src="./img/ws_coffee_maker.png" alt="anki_drip_coffee_card" />
-<em>via: https://www.youtube.com/watch?v=3r7cRS0w5MU&amp;t=175s</em></p>
+<em>via: https://www.youtube.com/watch?v=VZ16eqDVk3c&amp;t=45s</em></p>
 
 <p>Tags: <a href='tag_japanese.html'>japanese</a>, <a href='tag_vocabulary.html'>vocabulary</a>, <a href='tag_mining.html'>mining</a></p>
-
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/coffee-confusion.html</link>
 <guid>https://wabisebi.github.io/blog/./coffee-confusion.html</guid>
