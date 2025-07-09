@@ -2,9 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title></title><link>https://wabisebi.github.io/blog/index.html</link>
 <description></description><language>en</language>
-<lastBuildDate>Tue, 08 Jul 2025 22:03:43 +0900</lastBuildDate>
-<pubDate>Tue, 08 Jul 2025 22:03:43 +0900</pubDate>
+<lastBuildDate>Wed, 09 Jul 2025 11:30:08 +0900</lastBuildDate>
+<pubDate>Wed, 09 Jul 2025 11:30:08 +0900</pubDate>
 <atom:link href="https://wabisebi.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Learning conversational Japanese for (Coffee)bar
+</title><description><![CDATA[
+
+<p>Continuing to learn conversational words and phrases for my morning coffee. Here&rsquo;s today&rsquo;s video I used.</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 2rem;">
+  <iframe 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+    src="https://www.youtube.com/embed/DXzLFk_uEr4?si=MZJfSre3SyP2WelK" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+
+<p>Key takeaways:</p>
+
+<ol>
+<li><p>ホットかアイス、どちら<strong>になさいますか？</strong><br>Would you like it hot or iced?<br><strong>〜になさいますか？</strong> = respectful way to ask &ldquo;What will you choose?&rdquo; / &ldquo;What will you have?&rdquo;</p></li>
+<li><p>お会計、500円<strong>で御座います</strong>。<br>That&rsquo;ll be 500 yen.<br><strong>で御座います</strong>: be, is</p></li>
+<li>いえ、<strong>持ち帰り</strong>でお願いします。<br>No, I&rsquo;ll take it to go.<br><strong>持ち帰り (もちかえり)</strong>: takeout (i.e. food), take-out, takeaway, take-away</li>
+<li>いらっしゃいませ、<strong>店内</strong>ご利用ですか？<br>Welcome, will you be dining in?<br><strong>店内 (てんない)</strong>: inside of a shop</li>
+</ol>
+
+
+<p>Tags: <a href='tag_japanese.html'>japanese</a></p>
+
+<!-- text end -->
+]]></description><link>https://wabisebi.github.io/blog/japanese-at-coffee-bar.html</link>
+<guid>https://wabisebi.github.io/blog/./japanese-at-coffee-bar.html</guid>
+<dc:creator>Seb</dc:creator>
+<pubDate>Wed, 09 Jul 2025 11:11:59 +0900</pubDate></item>
 <item><title>
 Coffee Confusion at Tully&rsquo;s
 </title><description><![CDATA[
@@ -29,6 +65,7 @@ Coffee Confusion at Tully&rsquo;s
 <em>via: https://www.youtube.com/watch?v=VZ16eqDVk3c&amp;t=45s</em></p>
 
 <p>Tags: <a href='tag_japanese.html'>japanese</a>, <a href='tag_vocabulary.html'>vocabulary</a>, <a href='tag_mining.html'>mining</a></p>
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/coffee-confusion.html</link>
 <guid>https://wabisebi.github.io/blog/./coffee-confusion.html</guid>
@@ -51,6 +88,7 @@ Sentence Mining Within the Core 6K Deck
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/sentence-mining-within-the-core-6k-deck.html</link>
 <guid>https://wabisebi.github.io/blog/./sentence-mining-within-the-core-6k-deck.html</guid>
@@ -65,6 +103,7 @@ Realizing I Need Grammar
 <p><img src="./img/ws_slamdunk_grammar.jpg" alt="img" /><em>img: slam dunk</em></p>
 
 <p>Tags: <a href='tag_japanese.html'>japanese</a></p>
+
 
 
 
@@ -107,6 +146,7 @@ Japanese with Tanaka-san and Creating New Flashcards for Familiar Vocabulary
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/learn-japanese-with-tanaka-san.html</link>
 <guid>https://wabisebi.github.io/blog/./learn-japanese-with-tanaka-san.html</guid>
@@ -135,6 +175,7 @@ A Familiar Place in &ldquo;Japan Sinks: 2020&rdquo;
 <p>I&rsquo;ve only seen the first episode so far but I am enjoying the show, even if it&rsquo;s just for looking out for places I recognize.</p>
 
 <p>Tags: <a href='tag_guide.html'>guide</a></p>
+
 
 
 
@@ -216,6 +257,7 @@ The Wild Web of Language Learning Gurus
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/wild-web-gurus.html</link>
 <guid>https://wabisebi.github.io/blog/./wild-web-gurus.html</guid>
@@ -242,6 +284,7 @@ Fried Eggs and Japanese Super Immersion
 <p><img src="./img/fried-egg-nihongo.png" alt="fried-egg" /><em>One of several Anki flashcards I made this morning while watching &lsquo;Japanese Super Immersion&rsquo;</em></p>
 
 <p>Tags: <a href='tag_japanese.html'>japanese</a></p>
+
 
 
 
@@ -463,6 +506,7 @@ I Made My First YouTube Video
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/i-made-my-first-youtube-video.html</link>
 <guid>https://wabisebi.github.io/blog/./i-made-my-first-youtube-video.html</guid>
@@ -529,42 +573,10 @@ How I Learned Hiragana and Katakana
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/how-i-learned-the-kana.html</link>
 <guid>https://wabisebi.github.io/blog/./how-i-learned-the-kana.html</guid>
 <dc:creator>Seb</dc:creator>
 <pubDate>Mon, 27 Jan 2025 17:10:20 +0900</pubDate></item>
-<item><title>
-Support This Blog
-</title><description><![CDATA[
-
-<p>If you appreciate what you find here and would like to support the sustainability of this blog, please consider making a donation. I appreciate the support.</p>
-
-<p><img src="./img/ws_lucky_cat.png" alt="lucky_cat" /></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- text end -->
-]]></description><link>https://wabisebi.github.io/blog/donate.html</link>
-<guid>https://wabisebi.github.io/blog/./donate.html</guid>
-<dc:creator>Seb</dc:creator>
-<pubDate>Sun, 26 Jan 2025 17:22:12 +0900</pubDate></item>
 </channel></rss>
