@@ -5,7 +5,7 @@ A few days ago, I signed up for the JRE Card, which is a point card linked to my
 ![JRE_Spam](./img/2025_07_10_jre.jpg)
 This spam message is perfect for sentence mining—it contains only one (compound) word I didn’t know yet: 新着情報.
 
-![JRE_Spam](./img/2025_07_10_lookup.jpg)*I use the app Shirabe Jisho on my iPhone to quickly look up words—either by taking a photo of the text, copying and pasting it into the app, or drawing the kanji directly.*
+![JRE_Spam](./img/2025_07_10_lookup.jpg)*I use the app Shirabe Jisho on my iPhone to quickly look up words—either by taking a photo of the text, selecting the text in the image using Apple’s OCR and copying it into the app, or by drawing the kanji directly into the app.*
 
 It turns out these are two separate words ("newly" and "information"), but when used together as a compound, they mean something like “what’s new.” It’s commonly used on news websites and in apps.
 
