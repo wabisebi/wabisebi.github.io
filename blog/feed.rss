@@ -2,9 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title></title><link>https://wabisebi.github.io/blog/index.html</link>
 <description></description><language>en</language>
-<lastBuildDate>Wed, 09 Jul 2025 11:30:08 +0900</lastBuildDate>
-<pubDate>Wed, 09 Jul 2025 11:30:08 +0900</pubDate>
+<lastBuildDate>Thu, 10 Jul 2025 13:58:55 +0900</lastBuildDate>
+<pubDate>Thu, 10 Jul 2025 13:58:55 +0900</pubDate>
 <atom:link href="https://wabisebi.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Sentence Mining Spam Messages
+</title><description><![CDATA[
+
+<p>A few days ago, I signed up for the JRE Card, which is a point card linked to my Suica travel card. Basically, I can earn points at most shops around the station by purchasing things like coffee. These points can then be used for travel discounts.</p>
+
+<p><img src="./img/2025_07_10_jre.jpg" alt="JRE_Spam" />
+This spam message is perfect for sentence mining—it contains only one (compound) word I didn’t know yet: 新着情報.</p>
+
+<p><img src="./img/2025_07_10_lookup.jpg" alt="JRE_Spam" /><em>I use the app Shirabe Jisho on my iPhone to quickly look up words—either by taking a photo of the text, copying and pasting it into the app, or drawing the kanji directly.</em></p>
+
+<p>It turns out these are two separate words (&ldquo;newly&rdquo; and &ldquo;information&rdquo;), but when used together as a compound, they mean something like “what’s new.” It’s commonly used on news websites and in apps.</p>
+
+<p>Finally, I create an Anki card that includes the sentence, target word, and additional details like audio for both the sentence and the word. While it&rsquo;s possible to do this directly in Anki, I’ve found that Migaku’s card creator works great—it automatically generates the audio files.</p>
+
+<p><img src="./img/2025_07_10_migaku.png" alt="img_migaku" /></p>
+
+<p>With a click of a button, the card is created and sent to Anki, where it becomes part of my learning routine.</p>
+
+<p><img src="./img/2025_07_10_ankicard.png" alt="img_migaku" /></p>
+
+<p>Tags: <a href='tag_japanese.html'>japanese</a></p>
+<!-- text end -->
+]]></description><link>https://wabisebi.github.io/blog/sentence-mining-spam-messages.html</link>
+<guid>https://wabisebi.github.io/blog/./sentence-mining-spam-messages.html</guid>
+<dc:creator>Seb</dc:creator>
+<pubDate>Thu, 10 Jul 2025 13:47:36 +0900</pubDate></item>
 <item><title>
 Learning conversational Japanese for (Coffee)bar
 </title><description><![CDATA[
@@ -512,71 +539,4 @@ I Made My First YouTube Video
 <guid>https://wabisebi.github.io/blog/./i-made-my-first-youtube-video.html</guid>
 <dc:creator>Seb</dc:creator>
 <pubDate>Wed, 29 Jan 2025 13:07:59 +0900</pubDate></item>
-<item><title>
-How I Learned Hiragana and Katakana
-</title><description><![CDATA[
-
-<p>The Japanese written language is a fusion of three distinct scripts. Children in Japan first learn Hiragana and Katakana, before progressing to the more complex and vast set of Kanji characters, which were imported from China around the 5th century CE.</p>
-
-<h4>Phonetics</h4>
-
-<p>Hiragana and Katakana are phonetic scripts, meaning they visually represent sounds used in speech and don&rsquo;t carry any meaning. While both character sets largely share the same basic syllables, Katakana includes additional characters for representing foreign sounds not traditionally found in Japanese. Both scripts serve different purposes within the language. Although not used this way in practice, you could technically spell native Japanese words using just these two scripts.</p>
-
-<h4>Memorizing Characters Using Mnemonics</h4>
-
-<p>I found memorizing Hiragana and Katakana fairly easy, and it took me about a week. What worked best was utilizing <strong>visual mnemonics</strong> that simplify remembering information through simple associations.</p>
-
-<p>Here&rsquo;s an example for memorizing the character &lsquo;の.&rsquo; This character represents a syllable roughly pronounced as &lsquo;no&rsquo; in the English word &lsquo;not&rsquo;. Associating it with a &lsquo;No/not smoking&rsquo; sign, which is similar in shape to the hiragana character, was a helpful visual cue.</p>
-
-<p><img src="./img/ws_kana_no_smoking.webp" alt="kana-no-sign" /></p>
-
-<p>The internet is full of examples of mnemonics for the kana, so there is no need to make them up yourself.</p>
-
-<h4>Learning How to Write</h4>
-
-<p>Learning to write Hiragana and Katakana isn&rsquo;t too challenging, but it&rsquo;s important to follow the correct stroke order. Correct stroke order is crucial because it helps you intuitively write new characters and improves readability.</p>
-
-<p>I started with some practice sheets to learn the stroke order, and then switched to a gridded notebook, writing the characters from memory.</p>
-
-<h4>Practice, Practice, Practice</h4>
-
-<p>During my first month in Japan back in 2020, I regularly did speed quizzes to recognize kana as quickly as possible. Pretty soon, the characters came naturally, and eventually, I didn&rsquo;t have to rely on mnemonics. Reading Hiragana and Katakana now feels as familiar as reading the Latin script; I simply know their shapes and sounds without having to think about them.</p>
-
-<p><img src="./img/ws_kana_djt.gif" alt="djt-kana" /><em>Practicing Kana on the <a href="https://djtguide.neocities.org/kana/?ref=wabisebi.com">DJT Kana website</a></em></p>
-
-<h4>Practical Use in Daily Life</h4>
-
-<p>Hiragana is mostly used for Japanese-origin words, so without knowing the meanings of those words, it wasn&rsquo;t very useful to me until I started learning some actual vocabulary.</p>
-
-<p>The most useful thing for me right from the start was knowing Katakana. This script is primarily used for foreign loanwords, often imported from English, making them easy to understand. For instance, when I was searching for shampoo at a convenience store, I picked up a bottle with the text &lsquo;シャンプー&rsquo; on it. These syllables spell &lsquo;sha-n-puu,&rsquo; making it likely I had found the right product. Although only a small step, it started making things easier for me and marked my beginning of learning Japanese vocabulary.</p>
-
-<p><img src="./img/ws_kana_shopsign.png" alt="kana-shop-sign" /><em>フレッシュジュース / FU-RE-S-SHU-JU-U-SU / Fresh Juice. Illustration of shop sign in Nagasaki</em></p>
-
-<p>Tags: <a href='tag_japanese.html'>japanese</a></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- text end -->
-]]></description><link>https://wabisebi.github.io/blog/how-i-learned-the-kana.html</link>
-<guid>https://wabisebi.github.io/blog/./how-i-learned-the-kana.html</guid>
-<dc:creator>Seb</dc:creator>
-<pubDate>Mon, 27 Jan 2025 17:10:20 +0900</pubDate></item>
 </channel></rss>
