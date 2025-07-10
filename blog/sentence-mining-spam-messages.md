@@ -9,7 +9,7 @@ This spam message is perfect for sentence mining—it contains only one (compoun
 
 It turns out these are two separate words ("newly" and "information"), but when used together as a compound, they mean something like “what’s new.” It’s commonly used on news websites and in apps.
 
-Finally, I create an Anki card that includes the sentence, target word, and additional details like audio for both the sentence and the word. While it's possible to do this directly in Anki, I’ve found that Migaku’s card creator works great—it automatically generates the audio files.
+Finally, I create an Anki card that includes the sentence, target word, and additional details like audio for both the sentence and the word. While it's possible to do this directly in Anki, I’ve found that [Migaku’s](https://migaku.com/) card creator works great—it automatically generates the audio files.
 
 ![img_migaku](./img/2025_07_10_migaku.png)
 
