@@ -1,6 +1,6 @@
 Sentence Mining Spam Messages
 
-A few days ago, I signed up for the JRE Card, which is a point card linked to my Suica travel card. Basically, I can earn points at most shops around the station by purchasing things like coffee. These points can then be used for travel discounts.
+A few days ago, I signed up for the JRE Card, which is a point card linked to my Suica travel card. Basically, I can earn points at most shops around the station by purchasing things like coffee. These points can then be used for travel discounts. I hastily set up the app and accidentally gave it permission to send all types of notifications—resulting in a constant stream of spam. However, rather than getting annoyed by it, I turned it into a little game: as soon as I fully understand the spam message, I allow myself to turn it off.
 
 ![JRE_Spam](./img/2025_07_10_jre.jpg)
 This spam message is perfect for sentence mining—it contains only one (compound) word I didn’t know yet: 新着情報.

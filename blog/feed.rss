@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title></title><link>https://wabisebi.github.io/blog/index.html</link>
 <description></description><language>en</language>
-<lastBuildDate>Thu, 10 Jul 2025 14:07:31 +0900</lastBuildDate>
-<pubDate>Thu, 10 Jul 2025 14:07:31 +0900</pubDate>
+<lastBuildDate>Thu, 10 Jul 2025 16:11:29 +0900</lastBuildDate>
+<pubDate>Thu, 10 Jul 2025 16:11:29 +0900</pubDate>
 <atom:link href="https://wabisebi.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 Sentence Mining Spam Messages
 </title><description><![CDATA[
 
-<p>A few days ago, I signed up for the JRE Card, which is a point card linked to my Suica travel card. Basically, I can earn points at most shops around the station by purchasing things like coffee. These points can then be used for travel discounts.</p>
+<p>A few days ago, I signed up for the JRE Card, which is a point card linked to my Suica travel card. Basically, I can earn points at most shops around the station by purchasing things like coffee. These points can then be used for travel discounts. I hastily set up the app and accidentally gave it permission to send all types of notifications—resulting in a constant stream of spam. However, rather than getting annoyed by it, I turned it into a little game: as soon as I fully understand the spam message, I allow myself to turn it off.</p>
 
 <p><img src="./img/2025_07_10_jre.jpg" alt="JRE_Spam" />
 This spam message is perfect for sentence mining—it contains only one (compound) word I didn’t know yet: 新着情報.</p>
