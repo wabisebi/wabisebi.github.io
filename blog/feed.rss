@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title></title><link>https://wabisebi.github.io/blog/index.html</link>
 <description></description><language>en</language>
-<lastBuildDate>Thu, 10 Jul 2025 14:01:28 +0900</lastBuildDate>
-<pubDate>Thu, 10 Jul 2025 14:01:28 +0900</pubDate>
+<lastBuildDate>Thu, 10 Jul 2025 14:03:57 +0900</lastBuildDate>
+<pubDate>Thu, 10 Jul 2025 14:03:57 +0900</pubDate>
 <atom:link href="https://wabisebi.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 Sentence Mining Spam Messages
@@ -18,7 +18,7 @@ This spam message is perfect for sentence mining—it contains only one (compoun
 
 <p>It turns out these are two separate words (&ldquo;newly&rdquo; and &ldquo;information&rdquo;), but when used together as a compound, they mean something like “what’s new.” It’s commonly used on news websites and in apps.</p>
 
-<p>Finally, I create an Anki card that includes the sentence, target word, and additional details like audio for both the sentence and the word. While it&rsquo;s possible to do this directly in Anki, I’ve found that <a href="https://migaku.com/">Migaku’s</a> card creator works great—it automatically generates the audio files.</p>
+<p>Then, I create an Anki card that includes the sentence, target word, and additional details like audio for both the sentence and the word. While it&rsquo;s possible to do this directly in Anki, I’ve found that <a href="https://migaku.com/">Migaku’s</a> card creator works great—it automatically generates the audio files.</p>
 
 <p><img src="./img/2025_07_10_migaku.png" alt="img_migaku" /></p>
 
@@ -26,7 +26,7 @@ This spam message is perfect for sentence mining—it contains only one (compoun
 
 <p><img src="./img/2025_07_10_ankicard.png" alt="img_migaku" /></p>
 
-<p>Tags: <a href='tag_japanese.html'>japanese</a></p>
+<p>Tags: <a href='tag_japanese.html'>japanese</a>, <a href='tag_sentence-mining.html'>sentence-mining</a></p>
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/sentence-mining-spam-messages.html</link>
 <guid>https://wabisebi.github.io/blog/./sentence-mining-spam-messages.html</guid>
