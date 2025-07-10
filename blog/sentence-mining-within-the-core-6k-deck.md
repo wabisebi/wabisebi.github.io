@@ -8,4 +8,4 @@ It’s a good reminder that sentence mining isn’t just for completely new word
 
 ![sentence_mine](./img/ws_sentence_mine_nhk_wide_dk.png)
 
-Tags: japanese
+Tags: japanese, sentence-mining

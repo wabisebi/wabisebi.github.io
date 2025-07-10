@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title></title><link>https://wabisebi.github.io/blog/index.html</link>
 <description></description><language>en</language>
-<lastBuildDate>Thu, 10 Jul 2025 14:03:57 +0900</lastBuildDate>
-<pubDate>Thu, 10 Jul 2025 14:03:57 +0900</pubDate>
+<lastBuildDate>Thu, 10 Jul 2025 14:06:33 +0900</lastBuildDate>
+<pubDate>Thu, 10 Jul 2025 14:06:33 +0900</pubDate>
 <atom:link href="https://wabisebi.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 Sentence Mining Spam Messages
@@ -110,12 +110,7 @@ Sentence Mining Within the Core 6K Deck
 
 <p><img src="./img/ws_sentence_mine_nhk_wide_dk.png" alt="sentence_mine" /></p>
 
-<p>Tags: <a href='tag_japanese.html'>japanese</a></p>
-
-
-
-
-
+<p>Tags: <a href='tag_japanese.html'>japanese</a>, <a href='tag_sentence-mining.html'>sentence-mining</a></p>
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/sentence-mining-within-the-core-6k-deck.html</link>
 <guid>https://wabisebi.github.io/blog/./sentence-mining-within-the-core-6k-deck.html</guid>
