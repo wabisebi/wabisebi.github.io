@@ -4,7 +4,7 @@ Coffee Confusion at Tully's
 
 This morning, I decided to get regular coffee instead of my usual café latte at Tully’s. I was already a bit thrown off to learn that what they call “drip coffee” is just regular coffee that comes out of a machine—not hand-poured or anything fancy. But what really confused me was the Japanese menu, where “drip coffee” was labeled as 日本のコーヒー, which literally means “Japanese coffee.”
 
-Not sure how to order, I tried saying “drippu kōhī” (ドリップコーヒー), and that worked just fine, so it seems like that’s the standard term.
+Not sure how to order, I tried saying “drippu kōhī” (ドリップコーヒー), and that worked just fine.
 
 Out of curiosity, I looked up where this “Japanese coffee” label might come. Even ChatGPT doesn’t seem entirely sure why drip coffee was labeled that way in this case.
 
