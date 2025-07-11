@@ -6,4 +6,4 @@ It’s not a guide or a blueprint. I’m probably not doing things the most effi
 
 The self-study world can sometimes feel like a competition, with people showing off how fast or perfectly they’re learning. That mindset hasn’t helped me much. If you’re reading along, I hope you enjoy it and maybe pick up a tip or two—but mostly, I hope it reminds you that it’s okay to go at your own pace.
 
-![img](./img/ws_japanese_archive.png)*© wabisebi*
+![img](./img/ws_japanese_archive.png)*img: wabisebi*
