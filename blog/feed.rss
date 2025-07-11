@@ -2,26 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title></title><link>https://wabisebi.github.io/blog/index.html</link>
 <description></description><language>en</language>
-<lastBuildDate>Fri, 11 Jul 2025 14:21:15 +0900</lastBuildDate>
-<pubDate>Fri, 11 Jul 2025 14:21:15 +0900</pubDate>
+<lastBuildDate>Fri, 11 Jul 2025 14:23:14 +0900</lastBuildDate>
+<pubDate>Fri, 11 Jul 2025 14:23:14 +0900</pubDate>
 <atom:link href="https://wabisebi.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
-<item><title>
-                        About
-</title><description><![CDATA[
-
-                <p>Hi I&rsquo;m Seb. This website is a blogging experiment for now. I write about my experience of
-                    learning Japanese.</p>
-
-                <p><img src="./img/ws_japanese_archive.png" alt="img" /></p>
-
-
-
-<!-- text end -->
-]]></description><link>https://wabisebi.github.io/blog/about.html</link>
-<guid>https://wabisebi.github.io/blog/./about.html</guid>
-<dc:creator>                    Seb
-                </dc:creator>
-<pubDate>Thu, 10 Jul 2025 16:32:50 +0900</pubDate></item>
 <item><title>
 Sentence Mining Spam Messages
 </title><description><![CDATA[
@@ -44,6 +27,10 @@ This spam message is perfect for sentence mining—it contains only one (compoun
 <p><img src="./img/2025_07_10_ankicard.png" alt="img_migaku" /></p>
 
 <p>Tags: <a href='tag_japanese.html'>japanese</a>, <a href='tag_sentence-mining.html'>sentence-mining</a></p>
+
+
+
+
 
 
 
@@ -120,6 +107,10 @@ Learning conversational Japanese for (Coffee)bar
 
 
 
+
+
+
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/japanese-at-coffee-bar.html</link>
 <guid>https://wabisebi.github.io/blog/./japanese-at-coffee-bar.html</guid>
@@ -149,6 +140,10 @@ Coffee Confusion at Tully&rsquo;s
 <em>via: https://www.youtube.com/watch?v=VZ16eqDVk3c&amp;t=45s</em></p>
 
 <p>Tags: <a href='tag_japanese.html'>japanese</a>, <a href='tag_vocabulary.html'>vocabulary</a>, <a href='tag_mining.html'>mining</a></p>
+
+
+
+
 
 
 
@@ -207,6 +202,10 @@ Sentence Mining Within the Core 6K Deck
 
 
 
+
+
+
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/sentence-mining-within-the-core-6k-deck.html</link>
 <guid>https://wabisebi.github.io/blog/./sentence-mining-within-the-core-6k-deck.html</guid>
@@ -221,6 +220,10 @@ Realizing I Need Grammar
 <p><img src="./img/ws_slamdunk_grammar.jpg" alt="img" /><em>img: slam dunk</em></p>
 
 <p>Tags: <a href='tag_japanese.html'>japanese</a></p>
+
+
+
+
 
 
 
@@ -305,32 +308,15 @@ Japanese with Tanaka-san and Creating New Flashcards for Familiar Vocabulary
 
 
 
+
+
+
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/learn-japanese-with-tanaka-san.html</link>
 <guid>https://wabisebi.github.io/blog/./learn-japanese-with-tanaka-san.html</guid>
 <dc:creator>Seb</dc:creator>
 <pubDate>Sat, 24 May 2025 19:42:30 +0900</pubDate></item>
-<item><title>
-Learning Japanese
-</title><description><![CDATA[
-
-<p><img src="./img/ws_japanese_archive.png" alt="ws_archive" />
-text</p>
-
-
-
-
-
-
-
-
-
-
-<!-- text end -->
-]]></description><link>https://wabisebi.github.io/blog/learning-japanese.html</link>
-<guid>https://wabisebi.github.io/blog/./learning-japanese.html</guid>
-<dc:creator>Seb</dc:creator>
-<pubDate>Thu, 13 Feb 2025 10:39:33 +0900</pubDate></item>
 <item><title>
 The Wild Web of Language Learning Gurus
 </title><description><![CDATA[
@@ -366,6 +352,10 @@ The Wild Web of Language Learning Gurus
 
 
 <p>Tags: <a href='tag_japanese.html'>japanese</a></p>
+
+
+
+
 
 
 
@@ -495,9 +485,104 @@ Fried Eggs and Japanese Super Immersion
 
 
 
+
+
+
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/fried-egg-immersion.html</link>
 <guid>https://wabisebi.github.io/blog/./fried-egg-immersion.html</guid>
 <dc:creator>Seb</dc:creator>
 <pubDate>Tue, 04 Feb 2025 23:17:42 +0900</pubDate></item>
+<item><title>
+How I Learned Hiragana and Katakana
+</title><description><![CDATA[
+
+<p>The Japanese written language is a fusion of three distinct scripts. Children in Japan first learn Hiragana and Katakana, before progressing to the more complex and vast set of Kanji characters, which were imported from China around the 5th century CE.</p>
+
+<h4>Phonetics</h4>
+
+<p>Hiragana and Katakana are phonetic scripts, meaning they visually represent sounds used in speech and don&rsquo;t carry any meaning. While both character sets largely share the same basic syllables, Katakana includes additional characters for representing foreign sounds not traditionally found in Japanese. Both scripts serve different purposes within the language. Although not used this way in practice, you could technically spell native Japanese words using just these two scripts.</p>
+
+<h4>Memorizing Characters Using Mnemonics</h4>
+
+<p>I found memorizing Hiragana and Katakana fairly easy, and it took me about a week. What worked best was utilizing <strong>visual mnemonics</strong> that simplify remembering information through simple associations.</p>
+
+<p>Here&rsquo;s an example for memorizing the character &lsquo;の.&rsquo; This character represents a syllable roughly pronounced as &lsquo;no&rsquo; in the English word &lsquo;not&rsquo;. Associating it with a &lsquo;No/not smoking&rsquo; sign, which is similar in shape to the hiragana character, was a helpful visual cue.</p>
+
+<p><img src="./img/ws_kana_no_smoking.webp" alt="kana-no-sign" /></p>
+
+<p>The internet is full of examples of mnemonics for the kana, so there is no need to make them up yourself.</p>
+
+<h4>Learning How to Write</h4>
+
+<p>Learning to write Hiragana and Katakana isn&rsquo;t too challenging, but it&rsquo;s important to follow the correct stroke order. Correct stroke order is crucial because it helps you intuitively write new characters and improves readability.</p>
+
+<p>I started with some practice sheets to learn the stroke order, and then switched to a gridded notebook, writing the characters from memory.</p>
+
+<h4>Practice, Practice, Practice</h4>
+
+<p>During my first month in Japan back in 2020, I regularly did speed quizzes to recognize kana as quickly as possible. Pretty soon, the characters came naturally, and eventually, I didn&rsquo;t have to rely on mnemonics. Reading Hiragana and Katakana now feels as familiar as reading the Latin script; I simply know their shapes and sounds without having to think about them.</p>
+
+<p><img src="./img/ws_kana_djt.gif" alt="djt-kana" /><em>Practicing Kana on the <a href="https://djtguide.neocities.org/kana/?ref=wabisebi.com">DJT Kana website</a></em></p>
+
+<h4>Practical Use in Daily Life</h4>
+
+<p>Hiragana is mostly used for Japanese-origin words, so without knowing the meanings of those words, it wasn&rsquo;t very useful to me until I started learning some actual vocabulary.</p>
+
+<p>The most useful thing for me right from the start was knowing Katakana. This script is primarily used for foreign loanwords, often imported from English, making them easy to understand. For instance, when I was searching for shampoo at a convenience store, I picked up a bottle with the text &lsquo;シャンプー&rsquo; on it. These syllables spell &lsquo;sha-n-puu,&rsquo; making it likely I had found the right product. Although only a small step, it started making things easier for me and marked my beginning of learning Japanese vocabulary.</p>
+
+<p><img src="./img/ws_kana_shopsign.png" alt="kana-shop-sign" /><em>フレッシュジュース / FU-RE-S-SHU-JU-U-SU / Fresh Juice. Illustration of shop sign in Nagasaki</em></p>
+
+<p>Tags: <a href='tag_japanese.html'>japanese</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- text end -->
+]]></description><link>https://wabisebi.github.io/blog/how-i-learned-the-kana.html</link>
+<guid>https://wabisebi.github.io/blog/./how-i-learned-the-kana.html</guid>
+<dc:creator>Seb</dc:creator>
+<pubDate>Mon, 27 Jan 2025 17:10:20 +0900</pubDate></item>
 </channel></rss>
