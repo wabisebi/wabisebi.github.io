@@ -1,0 +1,426 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<link rel="stylesheet" href="main.css" type="text/css" />
+<link rel="stylesheet" href="blog.css" type="text/css" />
+<link rel="alternate" type="application/rss+xml" title="Subscribe to this page..." href="feed.rss" />
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
+
+<title>Wabisebi - Blog</title><title>It Doesn&rsquo;t Count if You Don&rsquo;t Share it</title>
+</head><body>
+<!-- Menu Bar Container -->
+<nav style="
+    background-color: white;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    padding: 0.75rem 0;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    width: 100%;
+">
+    <div style="
+        display: flex;
+        align-items: center;
+        width: 95%;
+        margin: 0 auto;
+        gap: 3rem;
+        height: 100%;
+    ">
+        <!-- Blog Title/Logo -->
+        <a href="./index.html" style="
+            font-size: 1.25rem;
+            font-weight: 600;
+            color: #333;
+            margin-left: 0;
+            text-decoration: none;
+        ">
+            wabisebi blog
+        </a>
+
+        <!-- Navigation Links -->
+        <div id="nav-links" style="
+            display: flex;
+            height: 100%;
+            margin-top: -0.75rem;
+            margin-bottom: -0.75rem;
+        ">
+            <a href="./about.html" style="
+                text-decoration: none;
+                color: #333;
+                font-weight: 500;
+                transition: color 0.2s;
+                padding: 0.75rem 1rem;
+            ">About</a>
+            <a href="./all_posts.html" style="
+                text-decoration: none;
+                color: #333;
+                font-weight: 500;
+                transition: color 0.2s;
+                padding: 0.75rem 1rem;
+            ">All Posts</a>
+        </div>
+
+        <!-- Hamburger Menu Button (Hidden on Desktop) -->
+        <button id="hamburger" style="
+            display: none;
+            background: none;
+            border: none;
+            cursor: pointer;
+            padding: 0.5rem;
+        ">
+            <div style="width: 25px; height: 3px; background-color: #333; margin: 5px 0; transition: 0.4s;"></div>
+            <div style="width: 25px; height: 3px; background-color: #333; margin: 5px 0; transition: 0.4s;"></div>
+            <div style="width: 25px; height: 3px; background-color: #333; margin: 5px 0; transition: 0.4s;"></div>
+        </button>
+    </div>
+</nav>
+
+<style>
+    /* Reset link styles */
+    nav #nav-links a {
+        color: #333 !important;
+        text-decoration: none !important;
+        transition: background-color 0.2s !important;
+        font-size: 16px !important;
+    }
+    
+    nav #nav-links a:hover {
+        color: #333 !important;
+        text-decoration: none !important;
+        background-color: #f0f0f0 !important;
+    }
+    
+    nav a:visited {
+        color: #333 !important;
+    }
+
+    /* Title link styles */
+    nav > div > a,
+    nav > div > a:visited,
+    nav > div > a:hover {
+        color: #333 !important;
+    } */
+    nav #nav-links a {
+        color: #333 !important;
+        text-decoration: none !important;
+        transition: background-color 0.2s !important;
+        font-size: 16px !important;
+    }
+    
+    nav #nav-links a:hover {
+        color: #333 !important;
+        text-decoration: none !important;
+        background-color: #f0f0f0 !important;
+    }
+    
+    nav a:visited {
+        color: #333 !important;
+    }
+
+    /* Title link styles */
+    nav > div > a {
+        color: #333 !important;
+    }
+    
+    nav > div > a:visited {
+        color: #333 !important;
+    }
+    
+    nav > div > a:hover {
+        color: #333 !important;
+    }
+
+    /* Mobile responsiveness */
+    @media (max-width: 768px) {
+        #hamburger {
+            display: block !important;
+            position: absolute !important;
+            right: 2.5% !important;
+        }
+
+        #nav-links {
+            display: none !important;
+            position: absolute !important;
+            top: 100% !important;
+            left: 0 !important;
+            right: 0 !important;
+            background-color: white !important;
+            flex-direction: column !important;
+            padding: 0 !important;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1) !important;
+            margin: 0 !important;
+            width: 100% !important;
+            z-index: 1000 !important;
+            min-width: 200px !important;
+        }
+
+        #nav-links.active {
+            display: flex !important;
+            background-color: white !important;
+        }
+
+        #nav-links a {
+            padding: 1rem !important;
+            width: 100% !important;
+            margin: 0 !important;
+            background-color: white !important;
+            border-bottom: 1px solid #eee !important;
+        }
+
+        /* Hamburger menu animation */
+        #hamburger.active div:nth-child(1) {
+            transform: rotate(-45deg) translate(-5px, 6px) !important;
+        }
+
+        #hamburger.active div:nth-child(2) {
+            opacity: 0 !important;
+        }
+
+        #hamburger.active div:nth-child(3) {
+            transform: rotate(45deg) translate(-5px, -6px) !important;
+        }
+    }
+</style>
+
+<script>
+    document.getElementById('hamburger').addEventListener('click', function() {
+        this.classList.toggle('active');
+        document.getElementById('nav-links').classList.toggle('active');
+    });
+
+    // Close menu when clicking outside
+    document.addEventListener('click', function(event) {
+        const nav = document.querySelector('nav');
+        const hamburger = document.getElementById('hamburger');
+        const navLinks = document.getElementById('nav-links');
+        
+        if (!nav.contains(event.target) && navLinks.classList.contains('active')) {
+            hamburger.classList.remove('active');
+            navLinks.classList.remove('active');
+        }
+    });
+
+    // Close menu when window is resized above mobile breakpoint
+    window.addEventListener('resize', function() {
+        if (window.innerWidth > 768) {
+            document.getElementById('hamburger').classList.remove('active');
+            document.getElementById('nav-links').classList.remove('active');
+        }
+    });
+</script><div id="divbodyholder">
+<div class="headerholder"><div class="header">
+<div id="title">
+<h1 class="nomargin"><a class="ablack" href="https://wabisebi.github.io/blog/index.html"></a></h1>
+<div id="description"></div>
+</div></div></div>
+<div id="divbody"><div class="content">
+<!-- entry begin -->
+<h3><a class="ablack" href="sharing-counts.html">
+It Doesn&rsquo;t Count if You Don&rsquo;t Share it
+</a></h3>
+<!-- bashblog_timestamp: #202501251801.29# -->
+<div class="subtitle">January 25, 2025 &mdash; 
+Seb
+</div>
+<!-- text begin -->
+
+<p>In my previous post, I talked about my bad habit of not finishing self-initiated projects. A frustrating side-effect of this is that I will inevitably see another person executing a very similar idea, sharing it publicly and receiving positive feedback. Now it feels like I&rsquo;ve missed my window and ever launching it would seem derivative. These are usually illustrations or art projects which are very close to something I have been working on for a long time but never felt like it was ready to share.</p>
+
+<p>I recently came across a passage that helped me realize that I have only myself to blame for feeling upset when this happens.</p>
+
+<p>In his book <a href="https://www.goodreads.com/book/show/60965426-the-creative-act">The Creative Act: A Way of Being</a>, music producer Rick Rubin shares what I find to be a beautiful perspective on <em>ideas</em>. I think of his view as seeing ideas almost like independent entities floating in the universe, waiting to be found and brought to life.</p>
+
+<blockquote><p>&ldquo;If you have an idea you&rsquo;re excited about and you don&rsquo;t bring it to life, it&rsquo;s not uncommon for the idea to find its voice through another maker. This isn&rsquo;t because the other artist stole your idea, but because the idea&rsquo;s time has come.&rdquo;</p></blockquote>
+
+<p>Author and marketer <a href="https://seths.blog/">Seth Godin</a> states it less poetically in his book <a href="https://www.goodreads.com/book/show/53479927-the-practice?from_search=true&amp;from_srp=true&amp;qid=KNybrLUG3u&amp;rank=1">The Practice: Shipping Creative Work</a> and cuts straight to the point when explaining the importance of <em>shipping</em> your idea or product out into the world.</p>
+
+<blockquote><p>&ldquo;Shipping, because it doesn&rsquo;t count if you don&rsquo;t share it.&rdquo;</p></blockquote>
+
+<p>Of course that&rsquo;s not to say that we can&rsquo;t make things purely for ourselves, which definitely counts in its own way. But if we want feedback and a relationship with others through our work, it will only happen if we actually put it out there.</p>
+
+<p>I&rsquo;ve decided to try and share things in a state where they might not yet feel &lsquo;perfect&rsquo; (whatever that means), rather than waiting too long and losing the moment. It might not ever be a masterpiece, but at least it now counts.
+<img src="./img/godin-rubin-books.webp" alt="Seth Godin and Rick Rubin Books" /></p>
+
+<p>Tags: <a href='tag_thoughts.html'>thoughts</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- text end -->
+<!-- entry end -->
+</div>
+<div id="footer">&copy; Wabisebi • All rights reserved • All illustrations and content unless mentioned otherwise.<br/>
+Generated with <a href="https://github.com/cfenollosa/bashblog">bashblog</a></div></div></div>
+</body></html>
