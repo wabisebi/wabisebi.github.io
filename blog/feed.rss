@@ -2,26 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title></title><link>https://wabisebi.github.io/blog/index.html</link>
 <description></description><language>en</language>
-<lastBuildDate>Tue, 23 Dec 2025 22:43:37 +0900</lastBuildDate>
-<pubDate>Tue, 23 Dec 2025 22:43:37 +0900</pubDate>
+<lastBuildDate>Tue, 23 Dec 2025 22:45:51 +0900</lastBuildDate>
+<pubDate>Tue, 23 Dec 2025 22:45:51 +0900</pubDate>
 <atom:link href="https://wabisebi.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
-<item><title>
-Forgotten item
-</title><description><![CDATA[
-
-<p>忘れ物</p>
-
-<p>Tags: <a href='tag_japanese.html'>japanese</a></p>
-
-
-
-
-
-<!-- text end -->
-]]></description><link>https://wabisebi.github.io/blog/forgotten-item.html</link>
-<guid>https://wabisebi.github.io/blog/./forgotten-item.html</guid>
-<dc:creator>Seb</dc:creator>
-<pubDate>Wed, 23 Jul 2025 14:21:30 +0900</pubDate></item>
 <item><title>
 Sentence Mining Spam Messages
 </title><description><![CDATA[
@@ -44,6 +27,7 @@ This spam message is perfect for sentence mining—it contains only one (compoun
 <p><img src="./img/2025_07_10_ankicard.png" alt="img_migaku" /></p>
 
 <p>Tags: <a href='tag_japanese.html'>japanese</a>, <a href='tag_sentence-mining.html'>sentence-mining</a></p>
+
 
 
 
@@ -140,6 +124,7 @@ Learning conversational Japanese for (Coffee)bar
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/japanese-at-coffee-bar.html</link>
 <guid>https://wabisebi.github.io/blog/./japanese-at-coffee-bar.html</guid>
@@ -168,6 +153,7 @@ Picking up my first manga for immersion
 
 
 <p>Tags: <a href='tag_japanese.html'>japanese</a></p>
+
 
 
 
@@ -202,6 +188,7 @@ Coffee Confusion at Tully&rsquo;s
 <em>via: https://www.youtube.com/watch?v=VZ16eqDVk3c&amp;t=45s</em></p>
 
 <p>Tags: <a href='tag_japanese.html'>japanese</a>, <a href='tag_vocabulary.html'>vocabulary</a>, <a href='tag_mining.html'>mining</a></p>
+
 
 
 
@@ -280,6 +267,7 @@ Sentence Mining Within the Core 6K Deck
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/sentence-mining-within-the-core-6k-deck.html</link>
 <guid>https://wabisebi.github.io/blog/./sentence-mining-within-the-core-6k-deck.html</guid>
@@ -294,6 +282,7 @@ Realizing I Need Grammar
 <p><img src="./img/ws_slamdunk_grammar.jpg" alt="img" /><em>img: slam dunk</em></p>
 
 <p>Tags: <a href='tag_japanese.html'>japanese</a></p>
+
 
 
 
@@ -398,6 +387,7 @@ Japanese with Tanaka-san and Creating New Flashcards for Familiar Vocabulary
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/learn-japanese-with-tanaka-san.html</link>
 <guid>https://wabisebi.github.io/blog/./learn-japanese-with-tanaka-san.html</guid>
@@ -426,6 +416,7 @@ This gives me more context. especially conbined with the previous card i created
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/some-doubts-about-the-core6k-deck.html</link>
 <guid>https://wabisebi.github.io/blog/./some-doubts-about-the-core6k-deck.html</guid>
@@ -444,9 +435,50 @@ as soon as you exit your editor.</p>
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/deciding-on-a-niche.html</link>
 <guid>https://wabisebi.github.io/blog/./deciding-on-a-niche.html</guid>
 <dc:creator>Seb</dc:creator>
 <pubDate>Fri, 25 Apr 2025 17:51:48 +0900</pubDate></item>
+<item><title>
+Gotta Do The Donut
+</title><description><![CDATA[
+
+<p>Earlier this week I completed what is probably the most followed tutorial online, the famous Donut Tutorial for Blender by Andrew (Blenderguru)</p>
+
+<p><img src="./img/FINAL_DONUT.png" alt="final_donut_image" /></p>
+
+<p>test</p>
+
+<p><img src="./img/donut-tutorial-sculpt.png" alt="image" /></p>
+
+<h4>Asking for help</h4>
+
+<p><img src="./img/donut-tutorial-ask-help.png" alt="final_donut_image" /></p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 2rem;">
+    <iframe 
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+        src="https://www.youtube.com/embed/4haAdmHqGOw" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        allowfullscreen>
+    </iframe>
+</div>
+
+
+<p>Tags: <a href='tag_blender.html'>blender</a></p>
+
+
+
+
+
+
+<!-- text end -->
+]]></description><link>https://wabisebi.github.io/blog/gotta-do-the-donut.html</link>
+<guid>https://wabisebi.github.io/blog/./gotta-do-the-donut.html</guid>
+<dc:creator>Seb</dc:creator>
+<pubDate>Thu, 24 Apr 2025 19:05:05 +0900</pubDate></item>
 </channel></rss>
