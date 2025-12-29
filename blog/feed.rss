@@ -2,9 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title></title><link>https://wabisebi.github.io/blog/index.html</link>
 <description></description><language>en</language>
-<lastBuildDate>Tue, 23 Dec 2025 22:45:51 +0900</lastBuildDate>
-<pubDate>Tue, 23 Dec 2025 22:45:51 +0900</pubDate>
+<lastBuildDate>Mon, 29 Dec 2025 12:07:36 +0900</lastBuildDate>
+<pubDate>Mon, 29 Dec 2025 12:07:36 +0900</pubDate>
 <atom:link href="https://wabisebi.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Using the で Particle to Mark Cause or Reason
+</title><description><![CDATA[
+
+<p>Earlier today, I was watching a GameGengo video focused on the Genki I textbook. I’ve decided to take another look at grammar since it’s my weakest point, though I feel confident about the first few grammar points. While watching the section on で, I went back through my Anki cards to check whether they all still made sense.</p>
+
+<p>I was familiar with the two uses of で explained in the video:</p>
+
+<p>Place of action
+学校で勉強する — study at school</p>
+
+<p>Tool / means (the thing used to carry out the action)</p>
+
+<p>少年は網でその蝶を捕まえた。
+The boy caught the butterfly with a net.</p>
+
+<p>So far, so good.</p>
+
+<p>Then I ran into the following Anki card:</p>
+
+<p>台風で木が倒れた。
+“A tree fell because of a typhoon.”</p>
+
+<p>A typhoon is neither a place nor a tool, so why で?</p>
+
+<p>After some Googling, I found an explanation: で can mark the circumstance or cause under which something happens. This usage usually applies to events, natural causes, or unavoidable situations.</p>
+
+<p>And then I found another example in my Anki cards:</p>
+
+<p>釘を踏んで怪我をしました。
+“I injured myself by stepping on a nail.”</p>
+
+<p>Tags: <a href='tag_japanese.html'>japanese</a></p>
+
+<!-- text end -->
+]]></description><link>https://wabisebi.github.io/blog/de-for-cause-or-reason.html</link>
+<guid>https://wabisebi.github.io/blog/./de-for-cause-or-reason.html</guid>
+<dc:creator>Seb</dc:creator>
+<pubDate>Mon, 29 Dec 2025 12:02:45 +0900</pubDate></item>
 <item><title>
 Sentence Mining Spam Messages
 </title><description><![CDATA[
@@ -27,6 +66,7 @@ This spam message is perfect for sentence mining—it contains only one (compoun
 <p><img src="./img/2025_07_10_ankicard.png" alt="img_migaku" /></p>
 
 <p>Tags: <a href='tag_japanese.html'>japanese</a>, <a href='tag_sentence-mining.html'>sentence-mining</a></p>
+
 
 
 
@@ -125,6 +165,7 @@ Learning conversational Japanese for (Coffee)bar
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/japanese-at-coffee-bar.html</link>
 <guid>https://wabisebi.github.io/blog/./japanese-at-coffee-bar.html</guid>
@@ -153,6 +194,7 @@ Picking up my first manga for immersion
 
 
 <p>Tags: <a href='tag_japanese.html'>japanese</a></p>
+
 
 
 
@@ -188,6 +230,7 @@ Coffee Confusion at Tully&rsquo;s
 <em>via: https://www.youtube.com/watch?v=VZ16eqDVk3c&amp;t=45s</em></p>
 
 <p>Tags: <a href='tag_japanese.html'>japanese</a>, <a href='tag_vocabulary.html'>vocabulary</a>, <a href='tag_mining.html'>mining</a></p>
+
 
 
 
@@ -268,6 +311,7 @@ Sentence Mining Within the Core 6K Deck
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/sentence-mining-within-the-core-6k-deck.html</link>
 <guid>https://wabisebi.github.io/blog/./sentence-mining-within-the-core-6k-deck.html</guid>
@@ -282,6 +326,7 @@ Realizing I Need Grammar
 <p><img src="./img/ws_slamdunk_grammar.jpg" alt="img" /><em>img: slam dunk</em></p>
 
 <p>Tags: <a href='tag_japanese.html'>japanese</a></p>
+
 
 
 
@@ -388,6 +433,7 @@ Japanese with Tanaka-san and Creating New Flashcards for Familiar Vocabulary
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/learn-japanese-with-tanaka-san.html</link>
 <guid>https://wabisebi.github.io/blog/./learn-japanese-with-tanaka-san.html</guid>
@@ -417,57 +463,23 @@ This gives me more context. especially conbined with the previous card i created
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://wabisebi.github.io/blog/some-doubts-about-the-core6k-deck.html</link>
 <guid>https://wabisebi.github.io/blog/./some-doubts-about-the-core6k-deck.html</guid>
 <dc:creator>Seb</dc:creator>
 <pubDate>Tue, 13 May 2025 12:06:42 +0900</pubDate></item>
 <item><title>
-Deciding on a Niche
+I Will Learn Blender 💪🏻
 </title><description><![CDATA[
 
-<p>The rest of the text file is a <strong>Markdown</strong> blog post. The process will continue
-as soon as you exit your editor.</p>
+<p>Now and again I get interested in learning to use 3D software. One of the main reasons is because lately I just haven&rsquo;t been enjoying illustration as much, and I feel stuck with my current style. Drawing has never really been my thing naturally - most of my illustrations are actually just me piecing things together in Illustrator until they work. My process has always been more about methodically constructing images than drawing freehand. I spend hours tweaking and adjusting elements until they look right, building up an image out of separate elements. And honestly, I enjoy that &lsquo;building&rsquo; process way more than traditional drawing. Another limitation of my current illustration style is using black outlines and flat colored shapes.</p>
 
-<p>Tags: <a href='tag_blender.html'>blender</a>, <a href='tag_art.html'>art</a></p>
+<p>What I&rsquo;m wondering is if the constructive nature of 3D modeling might align better with how I naturally approach visual creation, potentially offering me a new path forward.</p>
 
+<p>Because I&rsquo;ve tried Blender a few times before and then dropped it, I&rsquo;ve decided to commit to spending at least a thousand hours learning Blender. This time I want to get past the &lsquo;tutorial&rsquo; phase and actually start making some 3D illustrations. However, I will have to start with that basic cube and figuring out how the hell it even moves around in the 3D space.</p>
 
-
-
-
-
-<!-- text end -->
-]]></description><link>https://wabisebi.github.io/blog/deciding-on-a-niche.html</link>
-<guid>https://wabisebi.github.io/blog/./deciding-on-a-niche.html</guid>
-<dc:creator>Seb</dc:creator>
-<pubDate>Fri, 25 Apr 2025 17:51:48 +0900</pubDate></item>
-<item><title>
-Gotta Do The Donut
-</title><description><![CDATA[
-
-<p>Earlier this week I completed what is probably the most followed tutorial online, the famous Donut Tutorial for Blender by Andrew (Blenderguru)</p>
-
-<p><img src="./img/FINAL_DONUT.png" alt="final_donut_image" /></p>
-
-<p>test</p>
-
-<p><img src="./img/donut-tutorial-sculpt.png" alt="image" /></p>
-
-<h4>Asking for help</h4>
-
-<p><img src="./img/donut-tutorial-ask-help.png" alt="final_donut_image" /></p>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 2rem;">
-    <iframe 
-        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
-        src="https://www.youtube.com/embed/4haAdmHqGOw" 
-        title="YouTube video player" 
-        frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-        allowfullscreen>
-    </iframe>
-</div>
-
+<p><img src="./img/10hours_blender00.png" alt="blender10hours" /></p>
 
 <p>Tags: <a href='tag_blender.html'>blender</a></p>
 
@@ -476,9 +488,10 @@ Gotta Do The Donut
 
 
 
+
 <!-- text end -->
-]]></description><link>https://wabisebi.github.io/blog/gotta-do-the-donut.html</link>
-<guid>https://wabisebi.github.io/blog/./gotta-do-the-donut.html</guid>
+]]></description><link>https://wabisebi.github.io/blog/i-will-learn-blender.html</link>
+<guid>https://wabisebi.github.io/blog/./i-will-learn-blender.html</guid>
 <dc:creator>Seb</dc:creator>
-<pubDate>Thu, 24 Apr 2025 19:05:05 +0900</pubDate></item>
+<pubDate>Sat, 19 Apr 2025 12:38:43 +0900</pubDate></item>
 </channel></rss>
