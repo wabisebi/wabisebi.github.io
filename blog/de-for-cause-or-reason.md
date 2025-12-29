@@ -1,6 +1,6 @@
 Using the で Particle to Mark Cause or Reason
 
-Earlier today, I was watching a GameGengo video focused on the Genki I textbook. I’ve decided to take another look at grammar since it’s my weakest point, though I feel confident about the first few grammar points. While watching the section on で, I went back through my Anki cards to check whether they all still made sense.
+Earlier today, I was watching a [GameGengo video](https://www.youtube.com/watch?v=AlvQCc6Nvm0) focused on the Genki I textbook. I’ve decided to take another look at grammar since it’s my weakest point, though I feel confident about the first few grammar points. While watching the section on で, I went back through my Anki cards to check whether they all still made sense.
 
 I was familiar with the two uses of で explained in the video:
 
@@ -13,6 +13,8 @@ Tool / means (the thing used to carry out the action)
 The boy caught the butterfly with a net.
 
 So far, so good.
+
+![fallen-tree](./img/ws_fallen_tree.jpeg)
 
 Then I ran into the following Anki card:
 
